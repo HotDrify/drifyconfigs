@@ -104,13 +104,15 @@ async def check(config: str, timeout: float):
     except (OSError, TimeoutError, ValueError):
         return None
     finally:
-        if writer:
+        if writer is not None:
             try:
                 writer.close()
-                await asyncio.wait_for(writer.wait_closed(), 1.0)
-            except (OSError, TimeoutError):
+            except BaseException:
                 pass
-
+            try:
+                await asyncio.wait_for(writer.wait_closed(), 1.0)
+            except BaseException:
+                pass
 
 async def check_all(configs: list) -> dict:
     semaphore = asyncio.Semaphore(CON)
@@ -118,11 +120,17 @@ async def check_all(configs: list) -> dict:
     results: dict = {}
 
     async def check_one(config):
-        async with semaphore:
-            latency = await check(config, TIMEOUT)
+        try:
+            async with semaphore:
+                latency = await check(config, TIMEOUT)
+        except BaseException:
+            latency = None
         async with lock:
             if latency is not None and latency <= MAX_MS:
                 results[config] = latency
 
-    await asyncio.gather(*(check_one(c) for c in configs))
+    await asyncio.gather(
+        *(check_one(c) for c in configs),
+        return_exceptions=True,
+    )
     return results

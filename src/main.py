@@ -35,13 +35,13 @@ async def main():
         flush=True,
     )
 
-    unique_configs = deduplicate(fetch_results)
-    print(f"Unique: {len(unique_configs)}", flush=True)
+    dedup = deduplicate(fetch_results)
+    print(f"de-duplicate: {len(dedup)}", flush=True)
 
-    alive_map = await check_all(unique_configs)
-    percent = 100 * len(alive_map) // max(1, len(unique_configs))
+    alive_map = await check_all(dedup)
+    percent = 100 * len(alive_map) // max(1, len(dedup))
     print(
-        f"Alive: {len(alive_map)}/{len(unique_configs)} ({percent}%)",
+        f"alive: {len(alive_map)}/{len(dedup)} ({percent}%)",
         flush=True,
     )
 
@@ -51,9 +51,12 @@ async def main():
         flush=True,
     )
 
-
 if __name__ == "__main__":
     try:
         asyncio.run(main())
     except KeyboardInterrupt:
         print("\nStopped", flush=True)
+    except Exception:
+        import traceback
+        traceback.print_exc()
+
