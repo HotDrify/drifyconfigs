@@ -1,5 +1,6 @@
 import asyncio
 import base64
+import logging
 import os
 import ssl
 import time
@@ -14,6 +15,8 @@ from ws import (
     ws_recv,
     ws_send,
 )
+
+logging.getLogger("asyncio").setLevel(logging.CRITICAL)
 
 
 async def check(config: str, timeout: float):
@@ -30,6 +33,9 @@ async def check(config: str, timeout: float):
         and "flow=" not in config
         and security in ("none", "tls")
     )
+
+    sni = None
+    context = None
     if security == "tls":
         sni = checksni(info["sni"])
         if info["sni"] and sni is None:
@@ -37,25 +43,15 @@ async def check(config: str, timeout: float):
         context = ssl.create_default_context()
         context.check_hostname = False
         context.verify_mode = ssl.CERT_NONE
-        reader, writer = await asyncio.wait_for(
-            asyncio.open_connection(
-                info["host"], info["port"],
-                ssl=context, server_hostname=sni,
-            ),
-            timeout,
-        )
 
     started = time.monotonic()
     writer = None
     try:
         if security == "tls":
-            context = ssl.create_default_context()
-            context.check_hostname = False
-            context.verify_mode = ssl.CERT_NONE
             reader, writer = await asyncio.wait_for(
                 asyncio.open_connection(
                     info["host"], info["port"],
-                    ssl=context, server_hostname=info["sni"],
+                    ssl=context, server_hostname=sni,
                 ),
                 timeout,
             )
@@ -125,6 +121,7 @@ async def check(config: str, timeout: float):
                 await asyncio.wait_for(writer.wait_closed(), 1.0)
             except BaseException:
                 pass
+
 
 async def check_all(configs: list) -> dict:
     semaphore = asyncio.Semaphore(CON)
