@@ -1,7 +1,7 @@
 import os
 import re
 
-DIR = os.path.dirname(os.path.abspath(__file__))
+DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SUB = os.path.join(DIR, "subscribes")
 README = os.path.join(DIR, "README.md")
 
