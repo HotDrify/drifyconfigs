@@ -6,7 +6,7 @@ import time
 from urllib.parse import urlparse
 
 from config import CON, MAX_MS, TARGETS, TIMEOUT
-from parser import parse
+from parser import parse, checksni
 from ws import (
     server_ok,
     trojan_hand,
@@ -30,8 +30,20 @@ async def check(config: str, timeout: float):
         and "flow=" not in config
         and security in ("none", "tls")
     )
-    if security == "tls" and not info["sni"]:
-        return None
+    if security == "tls":
+        sni = checksni(info["sni"])
+        if info["sni"] and sni is None:
+            return None
+        context = ssl.create_default_context()
+        context.check_hostname = False
+        context.verify_mode = ssl.CERT_NONE
+        reader, writer = await asyncio.wait_for(
+            asyncio.open_connection(
+                info["host"], info["port"],
+                ssl=context, server_hostname=sni,
+            ),
+            timeout,
+        )
 
     started = time.monotonic()
     writer = None

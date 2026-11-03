@@ -1,6 +1,7 @@
 import base64
 import json
 from urllib.parse import parse_qs, urlparse
+import ipaddress
 
 from config import CFPREF
 
@@ -155,3 +156,21 @@ def rename(config: str, tag: str) -> str:
     return "vmess://" + base64.b64encode(
         json.dumps(data, ensure_ascii=False, separators=(",", ":")).encode()
     ).decode()
+
+def checksni(host: str) -> str | None:
+    if not host or len(host) > 253:
+        return None
+    host = host.strip().rstrip(".")
+    try:
+        ipaddress.ip_address(host)
+        return None
+    except ValueError:
+        pass
+    for label in host.split("."):
+        if not label or len(label) > 63:
+            return None
+        if label[0] == "-" or label[-1] == "-":
+            return None
+        if not all(c.isalnum() or c == "-" for c in label):
+            return None
+    return host or None
