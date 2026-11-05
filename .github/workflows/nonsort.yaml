@@ -1,0 +1,43 @@
+name: update
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: update-subs
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.TOKEN }}
+
+      - name: collect
+        run: |
+          mkdir -p subscribes
+          : > configs.txt
+          while IFS= read -r u; do
+            [ -z "$u" ] && continue
+            case "$u" in \#*) continue ;; esac
+            curl -fsSL --max-time 20 -A "Mozilla/5.0" "$u" 2>/dev/null \
+              | tr -d '\000' \
+              | grep -aEo '(vmess|vless|ss|trojan)://[^"'"'"' <>\s]+' >> configs.txt || true
+          done < <(grep -vE '^\s*(#|$)' .github/workflows/mirrors.txt)
+          sort -u nonsort.txt -o subscribes/nonsort.txt
+          echo "collected: $(wc -l < subscribes/nonsort.txt)"
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "non-sort ${{ github.run_number }}"
+          file_pattern: subscribes/
+          branch: master
+          skip_checkout: true
