@@ -20,7 +20,7 @@ jobs:
       - name: xray-knife
         run: |
           wget https://github.com/lilendian0x00/xray-knife/releases/download/v11.5.0/Xray-knife-linux-64.zip
-          unzip Xray-knife-linux-64.zip
+          unzip -o Xray-knife-linux-64.zip
           
       - name: test
         run: |
