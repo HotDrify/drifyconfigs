@@ -21,3 +21,10 @@ https://github.com/LalatinaHub/Mineral/raw/refs/heads/master/result/nodes
 https://github.com/MhdiTaheri/V2rayCollector_Py/raw/refs/heads/main/sub/Mix/mix.txt
 https://github.com/MhdiTaheri/V2rayCollector/raw/refs/heads/main/sub/mix
 https://github.com/kort0881/vpn-vless-configs-russia/raw/refs/heads/main/output/vless.txt
+https://raw.githubusercontent.com/aviamastersgh/vpn-free-russia/main/verified_configs.txt
+https://github.com/luxxuria/harvester/raw/refs/heads/main/non_ru.txt
+https://github.com/wlunlocker/vpn-configs/raw/refs/heads/main/blacklist_all.txt
+https://github.com/Subzio/subzio/raw/refs/heads/main/WHITE_LIST_PROXY_COLLECTION.txt
+https://github.com/FLAT447/v2ray-lists/raw/refs/heads/main/BLACK_FULL.txt
+https://raw.githubusercontent.com/TuftyTech/ShellShift/subs/sub_all.txt
+https://raw.githubusercontent.com/Hidashimora/free-vpn-anti-rkn/main/configs/1.1.txt
