@@ -1,8 +1,9 @@
 <div align="center">
 
   <h1>🚀 drify-configs</h1>
-
   <p>
+    <img src="https://img.shields.io/github/last-commit/HotDrify/drifyconfigs?style=for-the-badge&logo=github&label=Last%20Update" alt="Last commit">
+    <img src="https://img.shields.io/github/commit-activity/w/HotDrify/drifyconfigs?style=for-the-badge&logo=github&label=commits/week" alt="Commits">
     <a href="https://github.com/HotDrify/drifyconfigs/actions/workflows/update.yaml">
       <img src="https://github.com/HotDrify/drifyconfigs/actions/workflows/update.yaml/badge.svg" alt="WorkFlow">
     </a>
