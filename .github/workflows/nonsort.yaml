@@ -21,7 +21,7 @@ jobs:
         with:
           token: ${{ secrets.TOKEN }}
 
-      - name: collect
+      - name: full
         run: |
           mkdir -p subscribes
           while IFS= read -r u; do
@@ -33,6 +33,11 @@ jobs:
           done < <(grep -vE '^\s*(#|$)' .github/workflows/mirrors.txt) \
             | sort -u > subscribes/nonsort.txt
           echo "collected: $(wc -l < subscribes/nonsort.txt)"
+
+      - name: 20k
+        run: |
+          head -n 20000 subscribes/nonsort.txt > subscribes/nonsort20k.txt
+          echo "nonsort20k: $(wc -l < subscribes/nonsort20k.txt)"
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:

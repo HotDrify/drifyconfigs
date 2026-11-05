@@ -45,6 +45,15 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">⚠️</td>
+      <td><b>Non-sort 20k</b> - non checked configs (20k) for low-end devices</td>
+      <td align="center">
+        <a href="https://raw.githubusercontent.com/HotDrify/drifyconfigs/refs/heads/master/subscribes/nonsort20k.txt">
+          <img src="https://img.shields.io/badge/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8C-nonsort20k.txt-orange?style=for-the-badge&logo=icloud" alt="nonsort20k.txt">
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
 <hr>
