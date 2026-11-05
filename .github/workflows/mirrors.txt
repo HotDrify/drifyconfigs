@@ -1,4 +1,3 @@
-# ── github mirrors ─────────────────────────────────────────────
 https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-all.txt
 https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/protocols/vl.txt
 https://raw.githubusercontent.com/yitong2333/proxy-minging/refs/heads/main/v2ray.txt
@@ -21,3 +20,4 @@ https://github.com/Epodonios/v2ray-configs/raw/main/All_Configs_Sub.txt
 https://github.com/LalatinaHub/Mineral/raw/refs/heads/master/result/nodes
 https://github.com/MhdiTaheri/V2rayCollector_Py/raw/refs/heads/main/sub/Mix/mix.txt
 https://github.com/MhdiTaheri/V2rayCollector/raw/refs/heads/main/sub/mix
+https://github.com/kort0881/vpn-vless-configs-russia/raw/refs/heads/main/output/vless.txt
