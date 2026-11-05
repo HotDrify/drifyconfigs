@@ -32,10 +32,9 @@ jobs:
           echo "$(wc -l < configs.txt)"
           ./xray-knife http -f configs.txt -t 50 -o subscribes/sub.txt -v
           
-      - name: commit
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add subscribes/
-          git commit -m "subs $(date +%F)" || exit 0
-          git push
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "subs ${{ github.run_number }}"
+          file_pattern: subscribes/
+          branch: master
+          skip_checkout: true
