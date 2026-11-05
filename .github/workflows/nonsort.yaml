@@ -1,4 +1,4 @@
-name: non-sort 
+name: non-sort
 
 on:
   schedule:
@@ -24,15 +24,14 @@ jobs:
       - name: collect
         run: |
           mkdir -p subscribes
-          : > configs.txt
           while IFS= read -r u; do
             [ -z "$u" ] && continue
             case "$u" in \#*) continue ;; esac
             curl -fsSL --max-time 20 -A "Mozilla/5.0" "$u" 2>/dev/null \
               | tr -d '\000' \
-              | grep -aEo '(vmess|vless|ss|trojan)://[^"'"'"' <>\s]+' >> configs.txt || true
-          done < <(grep -vE '^\s*(#|$)' .github/workflows/mirrors.txt)
-          sort -u nonsort.txt -o subscribes/nonsort.txt
+              | grep -aEo '(vmess|vless|ss|trojan)://[^"'"'"' <>\s]+' || true
+          done < <(grep -vE '^\s*(#|$)' .github/workflows/mirrors.txt) \
+            | sort -u > subscribes/nonsort.txt
           echo "collected: $(wc -l < subscribes/nonsort.txt)"
 
       - uses: stefanzweifel/git-auto-commit-action@v5
