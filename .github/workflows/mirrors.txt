@@ -1,4 +1,4 @@
-# ── github raw ─────────────────────────────────────────────
+# ── github mirrors ─────────────────────────────────────────────
 https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-all.txt
 https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/protocols/vl.txt
 https://raw.githubusercontent.com/yitong2333/proxy-minging/refs/heads/main/v2ray.txt
