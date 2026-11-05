@@ -1,22 +1,23 @@
 <div align="center">
-
   <h1>🚀 drify-configs</h1>
   <p>
     <img src="https://img.shields.io/github/last-commit/HotDrify/drifyconfigs?style=for-the-badge&logo=github&label=Last%20Update" alt="Last commit">
     <img src="https://img.shields.io/github/commit-activity/w/HotDrify/drifyconfigs?style=for-the-badge&logo=github&label=commits/week" alt="Commits">
-    <a href="https://github.com/HotDrify/drifyconfigs/actions/workflows/update.yaml">
-      <img src="https://github.com/HotDrify/drifyconfigs/actions/workflows/update.yaml/badge.svg" alt="WorkFlow">
-    </a>
   </p>
-
   <p><b>Auto checked XRay configs for Russia 🇷🇺</b></p>
 
+  <p>
+    <a href="https://github.com/HotDrify/drifyconfigs/blob/master/other/README_RU.MD">RU</a> | EN
+  </p>
+</div>
+
+<div align="center">
+  <h2>❓ FAQ</h2>
+  <a href="https://github.com/HotDrify/drifyconfigs/blob/master/other/FAQ_RU.MD">RU</a> | <a href="https://github.com/HotDrify/drifyconfigs/blob/master/other/FAQ_EN.MD">EN</a>
 </div>
 
 <hr>
-
 <h2>📥 Subscribes</h2>
-
 <table>
   <thead>
     <tr>
@@ -46,21 +47,17 @@
     </tr>
   </tbody>
 </table>
-
 <hr>
 
 <h2>✨ Why im best</h2>
-
 <ul>
   <li>🔄 <b>Auto-Update</b> - Auto Updating configs</li>
   <li>✅ <b>Auto-Check</b> - Check all configs</li>
   <li>📦 <b>Sub format</b> - support all format: v2rayN, v2rayNG, NekoBox, Hiddify and etc</li>
 </ul>
-
 <hr>
 
 <h2>🙏 Thanks</h2>
-
 <ul>
   <li>
     <a href="https://github.com/lilendian0x00/xray-knife"><b>xray-knife</b></a>
@@ -71,7 +68,6 @@
     - mirror list
   </li>
 </ul>
-
 <hr>
 
 <div align="center">

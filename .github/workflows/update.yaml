@@ -20,18 +20,19 @@ jobs:
         run: |
           wget https://github.com/lilendian0x00/xray-knife/releases/download/v11.5.0/Xray-knife-linux-64.zip
           unzip -o Xray-knife-linux-64.zip
-          
+
       - name: test
         run: |
-          mkdir -p subscribes
+          mkdir -p subscribes/logs
           grep -vE '^\s*(#|$)' .github/workflows/mirrors.txt \
             | xargs -n1 -P10 curl -fsSL --max-time 20 -A "Mozilla/5.0" 2>/dev/null \
             | tr -d '\000' \
             | grep -aEo '(vmess|vless|ss|trojan)://[^"'"'"' <>\s]+' \
             | sort -u > configs.txt
           echo "$(wc -l < configs.txt)"
-          ./xray-knife http -f configs.txt -t 50 -o subscribes/sub.txt -v
-          
+          ./xray-knife http -f configs.txt -t 100 -o subscribes/sub.txt -v 2>&1 | tee subscribes/logs/latest.log
+          exit "${PIPESTATUS[0]}"
+
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "subs ${{ github.run_number }}"
