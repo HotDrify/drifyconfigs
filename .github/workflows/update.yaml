@@ -11,23 +11,28 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.TOKEN }}
+
+      - name: xray-knife
+        run: |
+          wget https://github.com/lilendian0x00/xray-knife/releases/download/v11.5.0/Xray-knife-linux-64.zip
+          unzip Xray-knife-linux-64.zip
           
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
-          
-      - run: pip install aiohttp
-      
-      - working-directory: ./src
-        run: python main.py
-      
-      - run: |
-          git config --global user.name 'github-actions'
-          git config --global user.email 'github-actions@github.com'
+      - name: test
+        run: |
+          mkdir -p subscribes
+          xargs -n1 -P10 curl -fsSL --max-time 20 -A "Mozilla/5.0" < .github/workflows/mirrors.txt 2>/dev/null \
+          | grep -Eo '(vmess|vless|ss|trojan)://[^"'"'"' <>\s]+' | sort -u > configs.txt
+          ./xray-knife http -f configs.txt -t 50 -o subscribes/sub.txt
+        
+      - name: commit
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
           git add subscribes/
-          git commit -m "new subs $(date +'%Y-%m-%d')" || exit 0
+          git commit -m "subs $(date +%F)" || exit 0
           git push
