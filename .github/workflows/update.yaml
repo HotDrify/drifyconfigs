@@ -30,7 +30,7 @@ jobs:
             | grep -aEo '(vmess|vless|ss|trojan)://[^"'"'"' <>\s]+' \
             | sort -u > configs.txt
           echo "$(wc -l < configs.txt)"
-          ./xray-knife http -f config.txt -t 300 -d 3000 --speedtest --speedtest-timeout 3 -o subscribes/sub.txt -v 2>&1 | tee subscribes/logs/latest.log
+          ./xray-knife http -f config.txt -t 300 -d 3000 --speedtest --speedtest-timeout 3 -o subscribes/sub.txt 2>&1 | tee subscribes/logs/latest.log
           exit "${PIPESTATUS[0]}"
 
       - uses: stefanzweifel/git-auto-commit-action@v5
