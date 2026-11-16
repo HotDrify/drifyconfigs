@@ -31,26 +31,8 @@
       <td align="center">✅</td>
       <td><b>проверенно</b> - проверенные конфиги</td>
       <td align="center">
-        <a href="https://raw.githubusercontent.com/HotDrify/drifyconfigs/refs/heads/master/subscribes/sub.txt">
-          <img src="https://img.shields.io/badge/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8C-sub.txt-brightgreen?style=for-the-badge&logo=icloud" alt="sub.txt">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">⚠️</td>
-      <td><b>Non-sort</b> - "сырые" конфиги, не проверенные</td>
-      <td align="center">
-        <a href="https://raw.githubusercontent.com/HotDrify/drifyconfigs/refs/heads/master/subscribes/nonsort.txt">
-          <img src="https://img.shields.io/badge/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8C-nonsort.txt-orange?style=for-the-badge&logo=icloud" alt="nonsort.txt">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">⚠️</td>
-      <td><b>Non-sort 20k</b> - "сырые" конфиги, не проверенные (20k лимит) для слабых устройств</td>
-      <td align="center">
-        <a href="https://raw.githubusercontent.com/HotDrify/drifyconfigs/refs/heads/master/subscribes/nonsort20k.txt">
-          <img src="https://img.shields.io/badge/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8C-nonsort20k.txt-orange?style=for-the-badge&logo=icloud" alt="nonsort20k.txt">
+        <a href="https://raw.githubusercontent.com/HotDrify/drifyconfigs/refs/heads/master/subscribes/subs.txt">
+          <img src="https://img.shields.io/badge/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8C-subs.txt-brightgreen?style=for-the-badge&logo=icloud" alt="sub.txt">
         </a>
       </td>
     </tr>
@@ -61,7 +43,7 @@
 <h2>✨ Почему мы лучшие?</h2>
 <ul>
   <li>🔄 <b>Авто-Обновление</b> - Автообновляемые конфиги</li>
-  <li>✅ <b>Авто-Проверка</b> - Проверка всех конфигов</li>
+  <li>✅ <b>Авто-Проверка</b> - Проверка всех конфигов прямо из россии</li>
   <li>📦 <b>Формат</b> - Поддерживаются клиенты: v2rayN, v2rayNG, NekoBox, Hiddify и т.д</li>
 </ul>
 <hr>
