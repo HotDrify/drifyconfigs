@@ -1,3 +1,33 @@
-vmess://eyJ2IjoiMiIsInBzIjoiQE91dGxpbmVSZWxlYXNlZEtleSIsImFkZCI6IjE3Mi42Ni4yMDMuNjciLCJwb3J0IjoiNDQzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyIsImlkIjoiMGNmNmQ5NzAtM2YxZC00YWFlLWE5ODktOTJhOGY3NmFlM2RiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoidm1lc3MubGJ3NjY2LmRwZG5zLm9yZyIsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwicGF0aCI6Ii93cyJ9
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@185.223.171.1:443?&security=reality&flow=xtls-rprx-vision&pbk=z46-GwLD2TvzK2o95okMP7IMNPUfwYHmqt2JV6nJ03I&sid=8c9f899dba63f6c7&fp=firefox&sni=ee1.gofizzin.com&type=tcp&headerType=none&host=ee1.gofizzin.com&path=%2F#%F0%9F%87%AA%F0%9F%87%AA%20%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A%20%7C%20EST%20t.me%2Frjsxrd
 
-vless://02655447-4659-41df-8d0e-d23a3035b7cb@157.228.66.102:32425?encryption=none&fp=firefox&pbk=PpnL3gRYVIKa1-k_dUWhVmW3JC3iDkxhuMvCxzdyOlk&security=reality&serviceName=eb8bcfdd&sid=dfdbc8945a9c72b9&sni=al.nebulaguard.org&type=grpc#🇦🇱 Албания 2 Edge Core FZE%20t.me%2Frjsxrd
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@185.223.171.1:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=z46-GwLD2TvzK2o95okMP7IMNPUfwYHmqt2JV6nJ03I&sid=8c9f899dba63f6c7&sni=ee1.gofizzin.com#Бесплатный VPN tg:VLESSFORU 🇪🇪%20t.me%2Frjsxrd
+
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@185.153.55.12:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=fruzza.org&pbk=AeJxuSro-bcBjd1ooUaXfWhROvGleu8OcoZSZutRT1I&sid=67106660&fp=firefox&spx=/b4fcc6d25bda84e#Бесплатный VPN tg:VLESSFORU 🇸🇪%20t.me%2Frjsxrd
+
+vless://0ed9418b-e687-4c2d-8869-7e368c44887e@89.106.88.27:443?type=grpc&security=reality&fp=edge&pbk=4XnNIGFrNW2uKqvNJly-X_J52O_SDOdWwejuGQU_IAs&sid=05c0787b9357f4a8&sni=ee27.own-homelab.cloud&serviceName=grpc#🇩🇪135Mb | RJ Network OU
+
+vless://d67ead25-b5d4-002e-b2fc-839ea07adcec@135.106.143.116:443?security=reality&sni=upgradecraft.com&fp=firefox&pbk=YHPoUNxsml4z6pYt-7djOb1lqnBjxCk4-2mk84pveyc&sid=bc0e11171a0edd80&type=xhttp&path=%2Fstatic&mode=auto#%F0%9F%87%B7%F0%9F%87%BA%20AetrisVPN%20t.me%2Frjsxrd
+
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@194.135.119.135:443?flow=xtls-rprx-vision&fp=firefox&host=ge1.gofizzin.com&path=%2F&pbk=fVo5hYUD3VkxEetcXSMVWp7hjvz4YrKLNHDhGhn-d3M&security=reality&sid=0640a12b&sni=ge1.gofizzin.com&type=tcp#%F0%9F%87%AC%F0%9F%87%AA%20Georgia%20%C2%B7%20Tbilisi%20%C2%B7%20f1344ade
+
+vless://0ed9418b-e687-4c2d-8869-7e368c44887e@89.106.88.24:443?type=grpc&security=reality&fp=edge&pbk=4XnNIGFrNW2uKqvNJly-X_J52O_SDOdWwejuGQU_IAs&sid=05c0787b9357f4a8&sni=ee24.own-homelab.cloud&serviceName=grpc#Бесплатный VPN tg:VLESSFORU 🇪🇪%20t.me%2Frjsxrd
+
+vless://1e6bb05f-2d45-4f88-ae4d-4baa2763e4cf@45.92.219.227:443?encryption=none&type=xhttp&security=reality&sni=pics.ds-cdn.online&pbk=83hcEckhKi2A2BxkgMa01143dR-lEnduh2qU5sHm-WY&sid=427dd79b7dd67972&fp=firefox&path=/internal/tunnel&mode=auto#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%7C%20TG%3A%20%40HardVpn_robot%20t.me%2Frjsxrd
+
+vless://0b22812b-4a79-42b1-93ec-5b157b0f2f7f@191.217.205.138:8443?encryption=none&fp=firefox&path=/assets/6c0f3ad762cb7ff51b454076&pbk=1SldfhWqqF_Rg9QlPKQqufcHi5GhkxwcEV5HGyOy4Qg&security=reality&sid=64ad711102f56ca2&sni=de.krabvpn.pro&type=xhttp#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20TG%3A%20%40HardVpn_robot%20t.me%2Frjsxrd
+
+vless://7e58a654-c964-4d49-96c3-60b9f0d96bbc@176.126.122.236:443?flow=xtls-rprx-vision&fp=firefox&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&security=reality&sid=&sni=rss.worldoftanks.asia&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Chicago%20%C2%B7%2074c0295c
+
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.86.228.39:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ae1.gofizzin.com&pbk=6_gm-7Bn-4wN79POTNyDJrJvPh1I5SSiO85zMKpKRUI&sid=29967a52&fp=edge&spx=/b4fcc6d25bda84e#Бесплатный VPN tg:VLESSFORU 🇦🇪%20t.me%2Frjsxrd
+
+vless://8d2cbffd-43d0-458d-906b-7c54b7b51f38@199.232.78.120:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&host=usaslioijji.global.ssl.fastly.net.&fp=chrome&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#[7596][US][0][VLESS][None][ext_raw.githubusercontent.com][2026-11-16][2026-11-16 03:31]
+
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@199.245.176.94:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=us3.gofizz.in&pbk=Ti0m82YFaY2ngtx1D3jicy2K1HnOWEsCfYYQPqhXImg&sid=6117837d3efb&fp=firefox&spx=/b4fcc6d25bda84e#Бесплатный VPN tg:VLESSFORU 🇺🇸%20t.me%2Frjsxrd
+
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@164.37.224.245:443?fp=edge&pbk=xn7KVKS5MOnsFrYrEeRS04JssBCOxh12rxegaDFyGkA&security=reality&serviceName=7d5abcd7d8a1&sid=6d289ff0f47c0aac&sni=961ec0g.nl13.h1clayd.click&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%C2%B7%20Kerkrade%20%C2%B7%2074b2497c
+
+vless://8d2cbffd-43d0-458d-906b-7c54b7b51f38@199.232.78.120:443?encryption=none&type=ws&security=tls&path=/&host=finalnsdger.global.ssl.fastly.net.&sni=cdn.akamai.steamstatic.com&pinSHA256=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E#[7531][US][0][VLESS][None][ext_raw.githubusercontent.com][2026-11-16][2026-11-16 03:31]
+
+vmess://eyJhZGQiOiIxMDQuMTcuMTM2LjE5OCIsImFpZCI6IjAiLCJob3N0Ijoidm1lc3MubGJ3NjY2LmRwZG5zLm9yZyIsImlkIjoiMGNmNmQ5NzAtM2YxZC00YWFlLWE5ODktOTJhOGY3NmFlM2RiIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgQ2hpY2FnbyB8IPCfjJAgfCBbQkxdIiwic2N5IjoiYXV0byIsInNuaSI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+
+vmess://eyJhZGQiOiIxMDQuMjcuMC4xIiwiYWlkIjoiMCIsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e68J+HuCBVbml0ZWQgU3RhdGVzLCBDaGljYWdvIHwg8J+MkCB8IFtCTF0iLCJzbmkiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNjeSI6ImF1dG8iLCJhbHBuIjoiIiwiZnAiOiIifQ==
