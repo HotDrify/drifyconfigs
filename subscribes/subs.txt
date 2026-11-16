@@ -1,13 +1,11 @@
-vless://0ed9418b-e687-4c2d-8869-7e368c44887e@76.164.202.166:443?fp=firefox&mode=gun&pbk=-ABl1aWUmg19BGoOGs8DwhPCTj4uUGgdyXZ1xaWh0W4&security=reality&serviceName=grpc&sid=376ec5abd2a1b80c&sni=de7-166.homelab-cdn.cloud&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%C2%B7%20Frankfurt%20am%20Main%20%C2%B7%206442af1c
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.175.238.57:443#@VPsave
 
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@3.71.19.239:443?#[5069][DE][0][SS][None][ext_raw.githubusercontent.com][2026-11-16][2026-11-16 03:31]
+vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@88.216.60.73:443?&security=reality&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=a7c92e4b10d6f835&fp=firefox&sni=ns-api-gw.galioncc.com&type=tcp&headerType=none&host=ns-api-gw.galioncc.com&path=%2F#%F0%9F%87%B8%F0%9F%87%AA%20%E7%91%9E%E5%85%B8%20%7C%20SWE%20t.me%2Frjsxrd
 
-vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@13.143.239.236:25700?encryption=none&fp=firefox&host=pl9.h1cloud.net&path=/astral-edge-h1&pbk=w698in_6eoH8y_C5jY3cpScMyaRaPpmPQEQhzw8QMUM&security=reality&sid=54c9c22217db5c86&sni=5dc396r.pl9.h1clayd.click&type=xhttp#🇵🇱 Польша 3 MEVSPACE sp. z o.o.%20t.me%2Frjsxrd
+vmess://eyJ2IjoiMiIsInBzIjoiQERlbHRhS3JvbmVja2VyR2l0aHViXzMwMjFfSVBWNCIsImFkZCI6IjE3Mi42NC4xNDUuOTMiLCJwb3J0IjoiNDQzIiwiaWQiOiI2YTg5YTIxNS0yMmJmLTRiZDctOTY0Mi1iOTViMmUwOTU4M2EiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii9obHMvY2N0djVwaGQubTN1OCIsImhvc3QiOiJndWFud2FuZy5hd3Nuby5jb20iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJndWFud2FuZy5hd3Nuby5jb20ifQ==#%20t.me%2Frjsxrd
 
-vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@13.143.239.236:25700?encryption=none&path=%2Fastral-edge-h1&pbk=w698in_6eoH8y_C5jY3cpScMyaRaPpmPQEQhzw8QMUM&security=reality&sid=54c9c22217db5c86&sni=5dc396r.pl9.h1clayd.click&type=xhttp&fp=ios#Бесплатный VPN tg:VLESSFORU 🇪🇪%20t.me%2Frjsxrd
+vless://3422d3c1-dec4-4387-96da-d1b56c5f2318@138.124.17.131:8443?flow=xtls-rprx-vision&type=raw&security=reality&sni=admin.mistral.ai&pbk=-rXSc4xMnB2OEs-Z628O2u3OPdMDL1h5mQvSZf5Nt1Q&sid=4d3affb557796d1c&fp=firefox#🇱🇹280Mb | Cherry Servers
 
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.150.108.180:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=il1.gofizzin.com&pbk=Jw--SSPecJpt9-lke7H9Bdr8F73xxtvC_5ZrxiWRog0&sid=dc1bf50b0e0a&fp=firefox&spx=/b4fcc6d25bda84e#Бесплатный VPN tg:VLESSFORU 🇮🇱%20t.me%2Frjsxrd
+vless://49db4ce7-ad48-41a3-9b6f-4c6dabd94504@23.237.59.226:443?fp=firefox&pbk=7ubUnSDMuzBIFRNuKxOy5VDgJQ5q3FYZcrnLBMrLYEw&security=reality&serviceName=grpc&sid=8d8489aa57d310bb&sni=ridge.quietgrove.forum&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Ashburn%20%C2%B7%20d8cf9a3b
 
-vless://89e2dc6c-dd20-43e6-aac2-d8c482d9cc36@185.178.208.167:443?alpn=http%2F1.1&encryption=none&fp=firefox&host=speakpro.lol&path=%2Fplayer%2Fcollect%2F9c8514f9552d%2F&security=tls&sni=uwugirl.dev&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%E2%80%94%20%2337
-
-vless://4eebdec5-08eb-4772-a0e6-35fec4c91cb0@185.178.208.167:443?security=tls&type=ws&sni=uwugirl.dev&path=%2Fplayer%2Fcollect%2F9c8514f9552d%2F&host=speakpro.lol&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20%5B%2ACIDR%5D
+hysteria2://6fffde27-86de-49e5-9ece-0669b6680afc@89.125.214.221:19446?sni=mshvpn.online#🇨🇿 Чехия 4 GLOBAL CONNECTIVITY SOLUTIONS LLP%20t.me%2Frjsxrd
