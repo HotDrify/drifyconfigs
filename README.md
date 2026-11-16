@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://github.com/HotDrify/drifyconfigs/raw/refs/heads/master/logo.jpg">
   <h1>🚀 drify-configs</h1>
   <p>
     <img src="https://img.shields.io/github/last-commit/HotDrify/drifyconfigs?style=for-the-badge&logo=github&label=Last%20Update" alt="Last commit">
