@@ -1,13 +1,15 @@
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@50.7.95.219:443?flow=xtls-rprx-vision&fp=chrome&pbk=UAry1N68zKkbO0MpIqAXmxfxg1Y9rvkiBjexZErRJwY&security=reality&sid=6a30cf54&sni=price.goonars.com&type=raw#🇺🇸138Mb | FDCserversnet
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@50.7.95.230:443?flow=xtls-rprx-vision&fp=chrome&pbk=gJoMHh97teLxW92Z_3DI8qdSulqBlb9sW6mthYPEEBk&security=reality&sid=d889ac17&sni=main.jarbook.net&type=raw#🇺🇸196Mb | FDCserversnet
 
-vless://49db4ce7-ad48-41a3-9b6f-4c6dabd94504@50.7.90.26:443?encryption=none&fp=firefox&pbk=afJl8rD_HbWjSxuktnRgL5m1yLGHr4Zgw0oLGCARbQ8&security=reality&serviceName=grpc&sid=9e5860a711d95972&sni=creek.oakhollow.top&type=grpc#🇩🇪 Германия 33 FDCservers.net%20t.me%2Frjsxrd
+vless://49db4ce7-ad48-41a3-9b6f-4c6dabd94504@50.7.115.245:443?security=reality&encryption=none&pbk=Mwczt2QjgQo3q8N10PVx8bWNubwiNhgka5GvxUy-GHQ&fp=firefox&type=xhttp&sni=beck.mossgill.top&sid=53df2804&path=%2F&mode=auto#Бесплатный VPN tg:VLESSFORU 🇦🇹%20t.me%2Frjsxrd
 
-vless://741b0b82-1a64-421f-a192-7acfd7fba513@51.83.6.7:20149?path=%2Fvless-ws&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20%C2%B7%20Roubaix%20%C2%B7%209aa0791a
+vless://1a425046-e39e-484e-a092-ecd26969795a@13.143.239.238:443?encryption=none&pbk=6btkX1f8JMl5JvTOtYTt2dctrlp0I4yG8X8z5oiH2GQ&security=reality&serviceName=a7ccccdefaf2&sid=fa71ec6a27badf83&sni=bb3835g.fi8.h1clayd.click&type=grpc&fp=ios#Бесплатный VPN tg:VLESSFORU 🇪🇪%20t.me%2Frjsxrd
 
-vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@45.141.148.46:443?fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=tr1b.galioncc.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%C2%B7%20Istanbul%20%C2%B7%20751b3896
+vless://0ed9418b-e687-4c2d-8869-7e368c44887e@5.178.85.81:8443?encryption=none&type=grpc&security=reality&sni=gazeta-business.ru&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=08&fp=firefox&serviceName=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot%20t.me%2Frjsxrd
 
-vless://7592ca5c-b352-4562-8856-a9c936a3331b@200.102.179.69:443?encryption=none&fp=firefox&host=dmbdnpctq8hjxx.hat.onl&path=/hls/014373eq/seg&security=tls&sni=dmbdnpctq8hjxx.hat.onl&type=xhttp#🇺🇸 США 32 WEDEPLOY SAS%20t.me%2Frjsxrd
+vless://8d2cbffd-43d0-458d-906b-7c54b7b51f38@199.232.78.120:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&host=usaslioijji.global.ssl.fastly.net.&fp=chrome&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#🏳️ 💥Config_jo-238
 
-vmess://ewogICAgImFkZCI6ICIxODguMTE0Ljk5LjEzNyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNmE4OWEyMTUtMjJiZi00YmQ3LTk2NDItYjk1YjJlMDk1ODNhIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2hscy9jY3R2NXBoZC5tM3U4IiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xODguMTE0Ljk5LjEzNy01OTAyIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAiZ3VhbndhbmcuYXdzbm8uY29tIgp9#channel:ext_raw.githubusercontent.com|post_date:2026-11-16|scrape_date:2026-11-16 03:31
+vless://88e79aa6-f431-4453-8dcc-652a0c747198@88.216.70.125:443?security=tls&encryption=none&fp=firefox&type=ws&sni=o685y.save-node.com&host=o685y.save-node.com&path=%2Fapi%2Fse1k2rfxlsuer3ry4u6e84kl8rqp721p#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot%20t.me%2Frjsxrd
 
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@41.196.0.128:443?flow=xtls-rprx-vision&fp=firefox&host=eg1.gofizz.in&path=%2F&pbk=tyklNbOfb-FctP-J1OQa1yUHPY9p4co70RyYuRe9nR8&security=reality&sid=f68db13f&sni=eg1.gofizz.in&type=tcp#%F0%9F%87%AA%F0%9F%87%AC%20Egypt%20%C2%B7%20New%20Cairo%20%C2%B7%201ee02ac3
+vless://49db4ce7-ad48-41a3-9b6f-4c6dabd94504@23.237.59.226:443?pbk=7ubUnSDMuzBIFRNuKxOy5VDgJQ5q3FYZcrnLBMrLYEw&security=reality&serviceName=grpc&sid=8d8489aa57d310bb&sni=ridge.quietgrove.forum&type=grpc&fp=edge#Бесплатный VPN tg:VLESSFORU 🇺🇸%20t.me%2Frjsxrd
+
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@114.37.105.51:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=tw1.gofizzin.com&pbk=3OEqq4MiCKoUP5yKBOmZsjuwg4i8A1fb8WrEDOFQek8&sid=2c14765d0b&fp=edge&spx=%2Fb4fcc6d25bda84e#Бесплатный VPN tg:VLESSFORU 🇹🇼%20t.me%2Frjsxrd
