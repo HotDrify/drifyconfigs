@@ -1,37 +1,23 @@
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@185.231.101.94:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=eiTR0q65sQ8SUwFSxHY1IXHKkNb-_QTQnambcVxnUFU&security=reality&sid=51057fb54d2364f4&sni=fuzora.net&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20TG%3A%20%40HardVpn_robot%20t.me%2Frjsxrd
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@31.77.151.246:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&security=reality&sid=bdf5852d1423e694&sni=fi-b2.golangwikito.cfd&type=tcp#🇫🇮 Финляндия 16 PLAY2GO INTERNATIONAL LIMITED%20t.me%2Frjsxrd
 
-wireguard://yAuUPqjgzEMLkA6hbU3prML4V6m5Iq%2F207P6I%2FpBL2o%3D@8.6.112.42:1010?wnoise=random&presharedkey=&address=172.16.0.2%2F32&reserved=153%2C196%2C234&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=2-5&wnoisecount=5&mtu=1280#%40Freenetvt
+vless://2237ac4b-a8a8-4476-ff67-d140d96b7a38@199.232.239.239:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=community.fastly.steamstatic.com&mode=packet-up&path=/@CloudVPNchannel/@CloudVPNchannel/@CloudVPNchannel&security=tls&encryption=none&extra={"xPaddingBytes":"100-300","xPaddingObfsMode":true,"xPaddingMethod":"repeat-x","xPaddingPlacement":"queryInHeader","xPaddingHeader":"Referer","xPaddingKey":"x_padding"}&insecure=0&host=cloudvpn2026-4.global.prod.fastly.net.global.prod.fastly.net&allowInsecure=0#[1656][US][0][VLESS][None][ext_raw.githubusercontent.com][2026-11-16][2026-11-16 03:31]
 
-vless://0ed9418b-e687-4c2d-8869-7e368c44887e@144.31.3.105:8443?encryption=none&pbk=0f9tBNd1e0FjqakxfoGM_bGfYIAdE81XzXwPQgJkVDI&security=reality&serviceName=grpc&sid=1eb65c424decdb73&sni=pl105.homelab-cdn.cloud&type=grpc&fp=safari#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20TG%3A%20%40HardVpn_robot%20t.me%2Frjsxrd
+vless://4ecb0295-8fa7-4670-8bab-976667c5509e@2.56.127.109:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=64ec2c66edb9.j.cloudfront.hls.ttvnw.net&pbk=CNMh9FFr4tfJc7hCtBqwYlLcBxk2Okz2fDPebYGJEww&sid=5e72e96b1a9ce2b4&fp=firefox&spx=/#Бесплатный VPN tg:VLESSFORU 🇨🇾%20t.me%2Frjsxrd
 
-vless://96aece95-a55a-4082-8c17-f996c0c83729@185.247.184.155:443?encryption=none&fp=firefox&path=/api/v1/data&pbk=k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ&security=reality&sid=c44bcdb731f12c41&sni=s.tradingview.com&type=xhttp#🇮🇹 Италия 1 GLOBAL CONNECTIVITY SOLUTIONS LLP%20t.me%2Frjsxrd
+vless://3ffb0799-5047-420a-90af-6a4b3fef91b0@194.77.220.212:443?encryption=none&fp=firefox&host=cdn2.zovip2.ir&path=/api/v3/pulse&security=tls&sni=cdn2.zovip2.ir&type=ws#🇩🇪 Германия 14 OVH SAS%20t.me%2Frjsxrd
 
-vless://0ed9418b-e687-4c2d-8869-7e368c44887e@76.164.202.165:443?fp=firefox&pbk=-ABl1aWUmg19BGoOGs8DwhPCTj4uUGgdyXZ1xaWh0W4&security=reality&serviceName=grpc&sid=376ec5abd2a1b80c&sni=de7-165.homelab-cdn.cloud&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%C2%B7%20Frankfurt%20am%20Main%20%C2%B7%20e5268244
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@91.229.239.31:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=dB_0SVZC1kSyoO7HGojy4RX-xeT36JFMBYntBytwzTU&sid=e09a99b8&sni=md1.gofizzin.com#Бесплатный VPN tg:VLESSFORU 🇲🇩%20t.me%2Frjsxrd
 
-vless://ba9ac05e-422e-421e-a46b-a4c111a29946@195.133.80.231:443?pbk=unNROkbh95ZZNHzG2RIkgrFftOLldNH0ccmtW63CziE&security=reality&serviceName=ebl&sni=optim.tildacdn.pub&type=grpc&fp=edge#🇵🇱117Mb | Soulful Hosting
+vless://97ab2e86-83c5-0a32-4914-5dbe1af97839@103.175.79.6:8443?fp=firefox&pbk=JeVpfwIwteGa8xfysPJUzrbHgmOPyLGomRqyH8Pi7W0&security=reality&serviceName=TunService&sid=&sni=download.nvidia.com&type=grpc#%F0%9F%87%B5%F0%9F%87%B0%20Pakistan%20%C2%B7%20Islamabad%20%C2%B7%20deab5030
 
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@185.176.9.26:443?&security=reality&flow=xtls-rprx-vision&pbk=Qxpi1A9yJXwgZ1ycBrasKBCrX3qkRJ646U28a-99WBE&sid=85750bd7&fp=firefox&sni=es1.gofizz.in&type=tcp&headerType=none&host=es1.gofizz.in&path=%2F#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%5BBL%5D
+vless://2208b003-78b1-453c-b5ca-ce847ff0efd6@13.143.239.216:443?encryption=none&fp=firefox&path=/543df6ec86cb&pbk=7ftQ5mfHdH5seKsEg7SePuCPBLWOBywMqSA5rpzopU4&security=reality&sid=ba9b7f04590755a0&sni=240ffdx.nl19.h1clayd.shop&type=xhttp#🇳🇱 Нидерланды 5 H1CLOUD LTD%20t.me%2Frjsxrd
 
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@152.89.168.55:443?flow=xtls-rprx-vision&fp=edge&pbk=KawjxoeWPWzD1GPZhwdiTje1gZIUiLzHUS7uqCiEtHE&security=reality&sid=22750eb5ffb0&sni=it1.gofizzin.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%C2%B7%20Pomezia%20%C2%B7%2033209fb0
+vless://97ab2e86-83c5-0a32-4914-5dbe1af97839@103.175.79.6:8443?encryption=none&fp=firefox&pbk=92KJ-ibs1qTy8nODGrHTW8T0b_trG7McLYv8My9o2EE&security=reality&serviceName=TunService&sni=download.autodesk.com&type=grpc#🇺🇸 США 12 PureVoltage Hosting Inc.%20t.me%2Frjsxrd
 
-vless://1f46fd94-aad5-4880-a355-a909e34c65de@198.200.54.223:10191?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=xnsybDODzTZKxFFdCvlaUdA0Wug0AMoJe2R8s8ynbFE&security=reality&sni=www.salesforce.com&type=tcp#🇺🇸 США 36 PEG TECH INC%20t.me%2Frjsxrd
+vless://88e79aa6-f431-4453-8dcc-652a0c747198@88.216.70.65:443?encryption=none&flow=xtls-rprx-vision&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&security=reality&sid=45ee70d18247e5&sni=de.save-node.com&type=tcp&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot%20t.me%2Frjsxrd
 
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@91.229.239.31:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=md1.gofizzin.com&pbk=dB_0SVZC1kSyoO7HGojy4RX-xeT36JFMBYntBytwzTU&sid=e09a99b8&fp=firefox&spx=/b4fcc6d25bda84e#Бесплатный VPN tg:VLESSFORU 🇲🇩%20t.me%2Frjsxrd
+vless://7d63243c-983e-44db-a1b8-13dc3fd6f7a2@153.76.204.5:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mg2MoLpb8B51aZiko_nW2SBRoaudv-O6HLHx8VYP7Do&security=reality&sni=cdnjs.com&type=tcp#🇳🇱 Нидерланды 44 AntiDDoS Networks LTD%20t.me%2Frjsxrd
 
-vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@13.143.239.236:25700?encryption=none&fp=firefox&host=pl9.h1cloud.net&path=/astral-edge-h1&pbk=w698in_6eoH8y_C5jY3cpScMyaRaPpmPQEQhzw8QMUM&security=reality&sid=54c9c22217db5c86&sni=5dc396r.pl9.h1clayd.click&type=xhttp#🇵🇱 Польша 4 MEVSPACE sp. z o.o.%20t.me%2Frjsxrd
+vless://3619ae0e-bd3a-458c-bb0a-c0479019d9ec@178.130.46.226:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=serv1.fishtohome.ru&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot%20t.me%2Frjsxrd
 
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@199.245.176.94:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Ti0m82YFaY2ngtx1D3jicy2K1HnOWEsCfYYQPqhXImg&security=reality&sid=6117837d3efb&sni=us3.gofizz.in&type=tcp#🇺🇸 США 42 Yanoor Islam Khan%20t.me%2Frjsxrd
-
-vless://ba9ac05e-422e-421e-a46b-a4c111a29946@185.81.129.21:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&security=reality&sni=lt.3apes.online&type=tcp#🇱🇻 Латвия 3 Sia Nano IT%20t.me%2Frjsxrd
-
-vless://d67ead25-b5d4-002e-b2fc-839ea07adcec@135.106.143.116:443?security=reality&sni=upgradecraft.com&fp=firefox&pbk=YHPoUNxsml4z6pYt-7djOb1lqnBjxCk4-2mk84pveyc&sid=bc0e11171a0edd80&type=xhttp&path=%2Fstatic&mode=auto#%F0%9F%87%B7%F0%9F%87%BA%20AetrisVPN%20t.me%2Frjsxrd
-
-vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@185.231.204.244:443?security=reality&encryption=none&pbk=Y2uyTCt5ofoFht6Xl-55dBPCBUiYi1fFTVcmZtoiqFw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl-balancer.peregrine-sub.net#[3406][NL][0][VLESS][None][ext_raw.githubusercontent.com][2026-11-13][2026-11-13 03:52]
-
-vless://02655447-4659-41df-8d0e-d23a3035b7cb@178.17.60.97:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=MxtGDhmLnM0c12kBSOjvxJjmflGmabDQsCekNeH85Rk&security=reality&sid=d110e87817307d2f&sni=fi1.nebulaguard.org&type=tcp#🇫🇮 Финляндия 6 WAIcore Ltd%20t.me%2Frjsxrd
-
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.86.228.39:443?&security=reality&flow=xtls-rprx-vision&pbk=6_gm-7Bn-4wN79POTNyDJrJvPh1I5SSiO85zMKpKRUI&sid=29967a52&fp=edge&sni=ae1.gofizzin.com&type=tcp&headerType=none&host=ae1.gofizzin.com&path=%2F#%F0%9F%87%A6%F0%9F%87%AA%20%E9%98%BF%E8%81%94%E9%85%8B%20%7C%20ARE%20t.me%2Frjsxrd
-
-vless://0ed9418b-e687-4c2d-8869-7e368c44887e@89.106.88.45:443?encryption=none&pbk=4XnNIGFrNW2uKqvNJly-X_J52O_SDOdWwejuGQU_IAs&security=reality&serviceName=grpc&sid=05c0787b9357f4a8&sni=ee45.own-homelab.cloud&type=grpc&fp=edge#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%7C%20%5BBL%5D
-
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZjBcdWQ4M2NcdWRkZjciLCJhZGQiOiIxMjkuMTU0LjYxLjE5NiIsInBvcnQiOiI4MDAiLCJpZCI6ImE5MTViMWQ2LWNmMjgtNGRjOC1lNGI0LWUwOWM0OGMzN2VjMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiIsImFscG4iOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==#%20t.me%2Frjsxrd
+vless://33b25ed8-2088-40a5-ba4f-cf04b6d3fc06@153.52.138.132:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=vJgQ5ZSblvzGdJ1s693hIEIUGTgMJaci4_2UGR7BFVA&security=reality&sid=789df6fbcf3518ea&sni=free-de1.endurancepro.space&type=tcp#🇩🇪 Германия 17 ExpressHost Ltd%20t.me%2Frjsxrd
