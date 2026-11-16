@@ -1,11 +1,21 @@
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.175.238.57:443#@VPsave
+wireguard://yAuUPqjgzEMLkA6hbU3prML4V6m5Iq%2F207P6I%2FpBL2o%3D@8.6.112.42:1010?wnoise=random&presharedkey=&address=172.16.0.2%2F32&reserved=153%2C196%2C234&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=2-5&wnoisecount=5&mtu=1280#%40Freenetvt
 
-vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@88.216.60.73:443?&security=reality&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=a7c92e4b10d6f835&fp=firefox&sni=ns-api-gw.galioncc.com&type=tcp&headerType=none&host=ns-api-gw.galioncc.com&path=%2F#%F0%9F%87%B8%F0%9F%87%AA%20%E7%91%9E%E5%85%B8%20%7C%20SWE%20t.me%2Frjsxrd
+vless://372931d3-91c5-4564-b79c-041302de9a17@31.77.28.68:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mEo4kHPpRns7efJfVW1G-gDEsPag0jELFQK-HIwrvjY&security=reality&sid=6562cf617728186e&sni=nl2.soshelper.space&type=tcp#🇳🇱 Нидерланды 18 Akenai Products LTD%20t.me%2Frjsxrd
 
-vmess://eyJ2IjoiMiIsInBzIjoiQERlbHRhS3JvbmVja2VyR2l0aHViXzMwMjFfSVBWNCIsImFkZCI6IjE3Mi42NC4xNDUuOTMiLCJwb3J0IjoiNDQzIiwiaWQiOiI2YTg5YTIxNS0yMmJmLTRiZDctOTY0Mi1iOTViMmUwOTU4M2EiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii9obHMvY2N0djVwaGQubTN1OCIsImhvc3QiOiJndWFud2FuZy5hd3Nuby5jb20iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJndWFud2FuZy5hd3Nuby5jb20ifQ==#%20t.me%2Frjsxrd
+vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@203.57.82.106:443?encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=9a3f6c21d8e047b5&sni=api-gw-net.galioncc.com&type=tcp&fp=ios#Бесплатный VPN tg:VLESSFORU 🇬🇧%20t.me%2Frjsxrd
 
-vless://3422d3c1-dec4-4387-96da-d1b56c5f2318@138.124.17.131:8443?flow=xtls-rprx-vision&type=raw&security=reality&sni=admin.mistral.ai&pbk=-rXSc4xMnB2OEs-Z628O2u3OPdMDL1h5mQvSZf5Nt1Q&sid=4d3affb557796d1c&fp=firefox#🇱🇹280Mb | Cherry Servers
+vless://49db4ce7-ad48-41a3-9b6f-4c6dabd94504@50.7.115.244:443?type=grpc&security=reality&fp=firefox&pbk=Mwczt2QjgQo3q8N10PVx8bWNubwiNhgka5GvxUy-GHQ&sid=00defa20&sni=gill.tarnfell.top&serviceName=grpc#🇺🇸114Mb | FDCserversnet
 
-vless://49db4ce7-ad48-41a3-9b6f-4c6dabd94504@23.237.59.226:443?fp=firefox&pbk=7ubUnSDMuzBIFRNuKxOy5VDgJQ5q3FYZcrnLBMrLYEw&security=reality&serviceName=grpc&sid=8d8489aa57d310bb&sni=ridge.quietgrove.forum&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Ashburn%20%C2%B7%20d8cf9a3b
+vless://6a5b48fe-9a99-4509-9bad-8ad9b44bd56e@138.16.206.147:9114?mode=gun&pbk=4q4qXs-E4wzxXyV4TrOC-mEzx2S6h_LjQ_t_gc4wQEs&security=reality&serviceName=inetgrpc&sid=6ba85179e30d4fc2&sni=www.cloudflare.com&type=grpc&fp=random#[447ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
 
-hysteria2://6fffde27-86de-49e5-9ece-0669b6680afc@89.125.214.221:19446?sni=mshvpn.online#🇨🇿 Чехия 4 GLOBAL CONNECTIVITY SOLUTIONS LLP%20t.me%2Frjsxrd
+vless://6a5b48fe-9a99-4509-9bad-8ad9b44bd56e@138.16.206.147:9065?mode=gun&pbk=XKFUTW9ZAlaaeuUGiKKx9FgLjdQch7pCiR1GC1xMcjk&security=reality&serviceName=grpc&sid=aab4c8abf7a4c4e4&sni=pl65.138-16-206-147.sslip.io&type=grpc&fp=edge#[1553ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
+
+vless://6a5b48fe-9a99-4509-9bad-8ad9b44bd56e@84.23.52.104:9071?mode=gun&pbk=XKFUTW9ZAlaaeuUGiKKx9FgLjdQch7pCiR1GC1xMcjk&security=reality&serviceName=grpc&sid=aab4c8abf7a4c4e4&sni=www.cloudflare.com&type=grpc&fp=edge#[807ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
+
+vless://6a5b48fe-9a99-4509-9bad-8ad9b44bd56e@84.23.52.104:9079?mode=gun&pbk=V1ifE7iJ4ITZfA10PNaR7fF7Lz1E_9v7a9S4jPOY-A8&security=reality&serviceName=inetgrpc&sid=069074d6fbb09e56&sni=by.84-23-52-104.sslip.io&type=grpc&fp=ios#[512ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
+
+vless://8d2cbffd-43d0-458d-906b-7c54b7b51f38@199.232.78.120:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=/&security=tls&encryption=none&insecure=0&host=ushetzijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#[7552][US][0][VLESS][None][ext_raw.githubusercontent.com][2026-11-13][2026-11-13 03:52]
+
+vless://5c09e56b-f97f-4360-8f01-eb4d39202095@185.155.55.12:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ApMfbcEyBOve6DxXoBNVu3bCCzQ7XCEYB4ummsDtTBE&security=reality&sid=661766b2bcef440a&sni=ee-nf.reddotcorp.org&type=tcp#🇪🇪 Эстония 2 RJ Network OU%20t.me%2Frjsxrd
+
+vless://89e2dc6c-dd20-43e6-aac2-d8c482d9cc36@185.178.208.167:443?security=tls&type=ws&sni=uwugirl.dev&path=%2Fplayer%2Fcollect%2F9c8514f9552d%2F&host=speakpro.lol&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
