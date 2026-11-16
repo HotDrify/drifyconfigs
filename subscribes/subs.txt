@@ -1,17 +1,11 @@
-vless://3dbd9377-43cc-46c3-b32c-2605908024eb@103.118.211.38:443?encryption=none&extra={"xPaddingBytes":"100-300"}&fp=firefox&path=/49b9f446&pbk=PA1xWXjxZLn68I-6cjWVdqc0dYhWbu9W5c1GpjEOZgE&security=reality&sid=8a9442353eebbe0f&sni=czechia.richforever.ru&type=xhttp#🇨🇿 Чехия 4 Mastersoft S.R.L.%20t.me%2Frjsxrd
+vless://a0144f3b-b7d4-47c3-b0bc-413194f001a8@151.101.3.6:443?security=tls&sni=apps.apple.com&alpn=h3&fp=firefox&type=xhttp&host=razor1.global.ssl.fastly.net&path=%2F&mode=packet-up#🇦🇪 🏴 WLUnlocker ОАЭ | #2
 
-vless://6a5b48fe-9a99-4509-9bad-8ad9b44bd56e@84.23.52.104:9079?mode=gun&pbk=V1ifE7iJ4ITZfA10PNaR7fF7Lz1E_9v7a9S4jPOY-A8&security=reality&serviceName=inetgrpc&sid=069074d6fbb09e56&sni=by.84-23-52-104.sslip.io&type=grpc&fp=random#[468ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
+vless://0f82d566-1273-43c5-a73c-229997b3b4b0@213.199.57.127:2087?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Y8U3PhV0K8jT4PBHq-rhCA4eUtOXa1CNB9waCvZbZSc&security=reality&sid=42&sni=blog.api.www.cloudflare.com&type=tcp#🇫🇷 Франция 2 Contabo GmbH%20t.me%2Frjsxrd
 
-wireguard://kFSADdfs2F4KUn%2FJDiwb2hfSInZpI7OlEB%2BxvwqI51Q%3D@8.6.112.40:7559?wnoise=random&presharedkey=&address=172.16.0.2%2F32&reserved=226%2C254%2C197&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=2-5&wnoisecount=5&mtu=1280#%40Freenetvt
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.150.108.180:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=il1.gofizzin.com&pbk=Jw--SSPecJpt9-lke7H9Bdr8F73xxtvC_5ZrxiWRog0&sid=dc1bf50b0e0a&fp=firefox&spx=/b4fcc6d25bda84e#Бесплатный VPN tg:VLESSFORU 🇮🇱%20t.me%2Frjsxrd
 
-vless://6a5b48fe-9a99-4509-9bad-8ad9b44bd56e@84.23.52.104:9071?mode=gun&security=reality&authority=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24%2F&pbk=XKFUTW9ZAlaaeuUGiKKx9FgLjdQch7pCiR1GC1xMcjk&fp=firefox&type=grpc&serviceName=grpc&sni=www.cloudflare.com&sid=aab4c8abf7a4c4e4#🇵🇱91Mb | Uphost Solutions Limited
+vless://64ce5faf-427b-4dd1-926c-6b7ced6b8c38@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_10i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#IRAN_V2PING@
 
-vless://a30903dc-1bf0-0001-8b1b-603a3a56211c@92.255.58.59:443?encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&serviceName=grpc&sid=344f83372596eea2&sni=api-gw-cfg.galioncc.com&type=grpc&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot%20t.me%2Frjsxrd
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@132.243.163.125:443?encryption=none&flow=xtls-rprx-vision&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&security=reality&sid=6976d670818644cc&sni=4935e4t.de25.h1clayd.click&type=tcp&fp=ios#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20TG%3A%20%40HardVpn_robot%20t.me%2Frjsxrd
 
-vmess://eyJhZGQiOiIxNzIuNjcuMTkwLjE2NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiZ3VhbndhbmcuYXdzbm8uY29tIiwiaWQiOiI2YTg5YTIxNS0yMmJmLTRiZDctOTY0Mi1iOTViMmUwOTU4M2EiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaGxzL2NjdHY1cGhkLm0zdTgiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJDaGFubmVsIGlkOiBDb25maWdWMlJheU5HIPCfh7rwn4e4Iiwic2N5IjoiYXV0byIsInNuaSI6Imd1YW53YW5nLmF3c25vLmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsInZjbiI6IiJ9#channel:ext_raw.githubusercontent.com|post_date:2026-11-16|scrape_date:2026-11-16 03:31
-
-vless://6a5b48fe-9a99-4509-9bad-8ad9b44bd56e@84.23.52.104:9118?mode=gun&pbk=4q4qXs-E4wzxXyV4TrOC-mEzx2S6h_LjQ_t_gc4wQEs&security=reality&serviceName=inetgrpc&sid=6ba85179e30d4fc2&sni=www.cloudflare.com&type=grpc&fp=random#[693ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
-
-vless://372931d3-91c5-4564-b79c-041302de9a17@94.183.179.64:443?type=tcp&flow=xtls-rprx-vision&pbk=9UG9zvrDpiPgY_J0dvB-n10ygEw3FzJ2qT8PFtITUBE&security=reality&sid=e06e30590f288e0f&sni=gb2.soshelper.space&encryption=none#[2830][GB][0][VLESS][None][ext_raw.githubusercontent.com][2026-11-16][2026-11-16 03:31]
-
-vless://7592ca5c-b352-4562-8856-a9c936a3331b@200.102.179.69:443?security=tls&type=xhttp&path=%2Fhls%2F014373eq%2Fseg&host=dmbdnpctq8hjxx.hat.onl&packetEncoding=xudp&sni=dmbdnpctq8hjxx.hat.onl&fp=chrome&mode=auto&encryption=none#Бесплатный VPN tg:VLESSFORU 🇺🇸%20t.me%2Frjsxrd
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@114.37.105.51:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=3OEqq4MiCKoUP5yKBOmZsjuwg4i8A1fb8WrEDOFQek8&security=reality&sid=2c14765d0b&sni=tw1.gofizzin.com&type=tcp#🇹🇼 Тайвань 2 Chunghwa Telecom Co., Ltd.%20t.me%2Frjsxrd
