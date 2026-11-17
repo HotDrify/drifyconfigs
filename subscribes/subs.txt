@@ -1,13 +1,9 @@
-vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@129.101.98.60:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lews1n_fypGexd_dMofEO4Vy1ULsFeVIFa90MMY3pm4&security=reality&sid=3992cc7fb9fcbe58&sni=ru7e2bab87cc39.eu-cdn539.com&type=tcp#4Nika-ef224057a3 | 123ms
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@153.52.69.249:443?security=reality&encryption=none&pbk=WVfpQqoeOrTtCq052_IOxvMv7RCWfLlAOxEfsH1aa2U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cache-78.topp-con.xyz&sid=d5492c7a39515c65#[6772][CZ][0][VLESS][None][ext_raw.githubusercontent.com][2026-11-13][2026-11-13 03:52]
 
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@5.253.86.3:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=51ZCyVOxvcD_smARtd9mV-3Rh_WurOzMGRFxk9u2Kgo&security=reality&sid=fa1754221e4c5f9e&sni=nl3.gofizz.in&spx=%2FHesarWeb&type=tcp&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot%20t.me%2Frjsxrd
+vless://6a5b48fe-9a99-4509-9bad-8ad9b44bd56e@138.16.206.147:9114?mode=gun&pbk=4q4qXs-E4wzxXyV4TrOC-mEzx2S6h_LjQ_t_gc4wQEs&security=reality&serviceName=inetgrpc&sid=6ba85179e30d4fc2&sni=www.cloudflare.com&type=grpc&fp=ios#[425ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
 
-vless://6a5b48fe-9a99-4509-9bad-8ad9b44bd56e@138.16.206.147:9065?mode=gun&pbk=XKFUTW9ZAlaaeuUGiKKx9FgLjdQch7pCiR1GC1xMcjk&security=reality&serviceName=grpc&sid=aab4c8abf7a4c4e4&sni=pl65.138-16-206-147.sslip.io&type=grpc&fp=random#[426ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
+vless://88e79aa6-f431-4453-8dcc-652a0c747198@88.216.70.125:443?path=%2Fapi%2Fse1k2rfxlsuer3ry4u6e84kl8rqp721p&security=tls&encryption=none&insecure=0&host=o685y.save-node.com&type=ws&allowInsecure=0&sni=o685y.save-node.com#🇩🇪 💥Config_jo-237
 
-vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@84.32.54.237:443?type=raw&security=reality&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&sni=rly-gw-cfg.galioncc.com#🇺🇸100Mb | Cherry Servers
-
-vless://24fb9b5b-43b7-4058-a7e5-a0499ada1fda@146.19.254.171:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=146.19.254.171&fp=chrome&alpn=h2%2Chttp/1.1%2Ch3#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot%20t.me%2Frjsxrd
+vless://6a5b48fe-9a99-4509-9bad-8ad9b44bd56e@84.23.52.104:9009?mode=gun&pbk=JASBooze12B0nAaLU2QMWkeAqXwh4GmhfPD_O9YteT0&security=reality&serviceName=inetgrpc&sid=6ba85179e30d4fc2&sni=n1.93-89-220-9.sslip.io&type=grpc&fp=ios#[629ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
 
 vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@153.56.230.77:25155?type=xhttp&security=reality&fp=firefox&pbk=I4mzdgz1mvaVDtkDD9AzK1ZJkEaQu_GYEbGIfm_a5UM&sid=0ebb438948cdf356&sni=48688cr.us12.h1clayd.click&path=%2Fastral-edge-h1&mode=stream-one#🇺🇸71Mb | Interserver
-
-vless://6a5b48fe-9a99-4509-9bad-8ad9b44bd56e@84.23.52.104:9009?mode=gun&pbk=JASBooze12B0nAaLU2QMWkeAqXwh4GmhfPD_O9YteT0&security=reality&serviceName=inetgrpc&sid=6ba85179e30d4fc2&sni=n1.93-89-220-9.sslip.io&type=grpc&fp=firefox#[695ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
