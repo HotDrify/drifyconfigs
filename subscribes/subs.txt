@@ -1,29 +1,23 @@
-vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@88.216.189.192:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1VhM5R3IlHPjzxEeTuik1lcUad-HI6C57MzXxppyXg4&security=reality&sni=modx.wey-land.net&type=tcp#🇸🇪 Швеция 2 UAB Cherry Servers%20t.me%2Frjsxrd
+vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@48.103.120.14:443?type=raw&security=reality&fp=edge&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&sni=svc-ns-cfg.galioncc.com#🇩🇪225Mb | GSL Networks Pty
 
-vless://003ec416-45f0-462a-8030-016fe0a71703@141.11.203.165:443?encryption=none&type=xhttp&security=tls&sni=186.baklajann.ru&fp=chrome&alpn=h2%2Chttp/1.1&path=/&host=186.baklajann.ru&mode=auto#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%7C%20TG%3A%20%40HardVpn_robot%20t.me%2Frjsxrd
+vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@84.32.102.231:443?encryption=none&fp=firefox&pbk=mvftK1HPHzpwowTw8ElAwf-GEECYx38GCTq4ihhEmAY&security=reality&sni=de-modx.nodexphere.net&type=tcp#🇳🇱 Нидерланды 35 UAB Cherry Servers%20t.me%2Frjsxrd
 
-vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@191.217.254.92:443?security=reality&flow=xtls-rprx-vision&fp=qq&pbk=HBA6AJhHsvChYzBxXwj-3as0EiYntPLftMkPelSotTQ&sni=china.wey-land.net#🇺🇸332Mb | hostoff Csl
+vless://e0decac3-1b3e-4ab1-a2a8-860a8aca76f6@217.60.145.72:3738?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=7R9kt84PElBeZtigTJGzk2-7MAHCowrwOyTvDkck7D0&security=reality&sid=b975becb33cd63ea&sni=nl38.static-s3.org&type=tcp#🇳🇱 Нидерланды 37 AdaptGroup LLC%20t.me%2Frjsxrd
 
-vless://f863bc2a-daf7-4c9c-8070-b780ddbaddcb@31.43.179.0:443?encryption=none&fp=firefox&host=worker2.peramip455.workers.dev&path=/6q9UJmS2CckAEFb1&security=tls&sni=worker2.peramip455.workers.dev&type=ws#🇩🇪 Германия 33 CHSL ONE LTD%20t.me%2Frjsxrd
+vless://4f692947-7439-4396-9234-d304618bfbcf@185.91.52.223:444?type=xhttp&security=tls&sni=nl-38-qu60.wave-inside.online&fp=firefox&alpn=h2%2Chttp%2F1.1&path=%2Fxh&host=nl-38-qu60.wave-inside.online&mode=auto&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot%20t.me%2Frjsxrd
 
-vless://be5fa620-fe55-4e34-87fb-c6b50c0b90c9@154.197.64.252:443?encryption=none&fp=firefox&host=worker3.fosexej7666.workers.dev&path=/LOGZPldfDGZEtuMh&security=tls&sni=worker3.fosexej7666.workers.dev&type=ws#🇩🇪 Германия 27 WAIcore Ltd%20t.me%2Frjsxrd
+hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@150.251.142.34:8443?sni=speedtestmark.com#🇳🇱 Нидерланды 11 NovoServe B.V.%20t.me%2Frjsxrd
 
-vless://a346c521-7a7f-452b-9356-a4893feb5982@89.221.203.29:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&sni=ru2-r.bankai.party#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
+vless://e0decac3-1b3e-4ab1-a2a8-860a8aca76f6@187.54.1.75:3738?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=y2_CwHuL3tWUgKn_bHn4WUMX_cVHdSi4JbLKCfD6_3A&security=reality&sid=d777235c883e6c88&sni=pl38.static-s3.org&type=tcp#🇵🇱 Польша 28 AdaptGroup LLC%20t.me%2Frjsxrd
 
-vless://44ddb84a-f152-47ef-a970-fd63f2df9b30@93.88.206.70:443?type=xhttp&security=tls&fp=qq&sni=edge.sevka.xyz&path=/350a12c4b006&mode=auto#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20TG%3A%20%40HardVpn_robot%20t.me%2Frjsxrd
+vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@48.103.120.9:443?encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=net-rt-mgr.galioncc.com&type=tcp&fp=ios#Бесплатный VPN tg:VLESSFORU 🇺🇸%20t.me%2Frjsxrd
 
-vmess://eyJhZGQiOiIxNzIuNjYuMC4xIiwiYWlkIjoiMCIsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e68J+HuCBVbml0ZWQgU3RhdGVzLCBDaGljYWdvIHwgW0JMXSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwiYWxwbiI6IiIsImZwIjoiIn0=
+vmess://ewogICAgImFkZCI6ICIxODguMTE0Ljk5LjEzNyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNmE4OWEyMTUtMjJiZi00YmQ3LTk2NDItYjk1YjJlMDk1ODNhIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2hscy9jY3R2NXBoZC5tM3U4IiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xODguMTE0Ljk5LjEzNy01OTAyIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAiZ3VhbndhbmcuYXdzbm8uY29tIgp9#channel:ext_raw.githubusercontent.com|post_date:2026-11-16|scrape_date:2026-11-16 03:31
 
-vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@129.101.98.60:443?flow=xtls-rprx-vision&pbk=lews1n_fypGexd_dMofEO4Vy1ULsFeVIFa90MMY3pm4&security=reality&sid=3992cc7fb9fcbe58&sni=ru7e2bab87cc39.eu-cdn539.com&fp=random#Бесплатный VPN tg:VLESSFORU 🇷🇺%20t.me%2Frjsxrd
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg5py65Zy65o6o6I2QOmRhZmVpLmRlIOe+juWbvSA2NyIsImFkZCI6IjE4OC4xMTQuOTkuMTM3IiwicG9ydCI6IjQ0MyIsImlkIjoiNmE4OWEyMTUtMjJiZi00YmQ3LTk2NDItYjk1YjJlMDk1ODNhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsInNuaSI6Imd1YW53YW5nLmF3c25vLmNvbSIsInBhdGgiOiIvaGxzL2NjdHY1cGhkLm0zdTgiLCJob3N0IjoiZ3VhbndhbmcuYXdzbm8uY29tIn0=#%20t.me%2Frjsxrd
 
-vless://bb2a729c-6185-4170-8769-6f5b9f64d5b8@104.18.79.242:443?path=%2F11290579a72cdb4e%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cloud-sync-3d1512-gw.maziarkish.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=cloud-sync-3d1512-gw.maziarkish.workers.dev#4Kian-a6232236d8 | 6ms
+vless://d4079b66-b186-4725-b399-97a2ca46ed8f@154.197.64.252:443?encryption=none&fp=firefox&host=worker3.vefibe8662.workers.dev&path=/HGCmKaXbRNqpZqMv&security=tls&sni=worker3.vefibe8662.workers.dev&type=ws#🇩🇪 Германия 44 DigitalOcean, LLC%20t.me%2Frjsxrd
 
-vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@191.217.254.120:443?encryption=none&extra={"mode":"auto","scMaxEachPostBytes":"400000-800000","xPaddingBytes":"100-1000","xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConcurrency":"2-4","maxConnections":0}}&fp=firefox&path=/app-backend-reg&pbk=jo0eeH8we0ghlD8443YZxiqy5RuMiHzXyRyils1CoTc&security=reality&sid=05f37a191ec7a2ad&sni=starting2.wey-land.net&type=xhttp#🇳🇱 Нидерланды 5 LLC HOSTOFF CSL%20t.me%2Frjsxrd
+trojan://123456@34.80.15.95:443/?type=tcp&security=tls&sni=tw.ctt25.uk&fp=chrome#Бесплатный VPN tg:VLESSFORU 🇹🇼%20t.me%2Frjsxrd
 
-vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?encryption=none&fp=firefox&host=subgift.gcorecdn.com&path=/t.me-SubGift&security=tls&sni=subgift.gcorecdn.com&type=ws#🇸🇪 Швеция 5 Cloudflare, Inc.%20t.me%2Frjsxrd
-
-vless://a346c521-7a7f-452b-9356-a4893feb5982@83.171.241.244:25267?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tP78ugkcN9bZU6fJH3mqHJIErR8vjBwOw0ERPwCZSSM&security=reality&sid=b1e59e06c61b090c&sni=pl1-edge.bankai.party&type=tcp#🇵🇱 Польша 10 Paul Sagov%20t.me%2Frjsxrd
-
-vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@153.56.230.77:25155?encryption=none&fp=firefox&host=48688cr.us12.h1clayd.click&path=/astral-edge-h1&pbk=I4mzdgz1mvaVDtkDD9AzK1ZJkEaQu_GYEbGIfm_a5UM&security=reality&sid=0ebb438948cdf356&sni=48688cr.us12.h1clayd.click&type=xhttp#🇺🇸 США 5 Interserver, Inc%20t.me%2Frjsxrd
-
-vless://a30903dc-1bf0-0001-8b1b-603a3a56211c@92.255.58.59:443?encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&serviceName=grpc&sid=344f83372596eea2&sni=api-gw-cfg.galioncc.com&type=grpc&fp=ios#11 %7C GRPC%2BREALITY %7C SNI%3A api-gw-cfg.galioncc.com %7C IN%3A RU OUT%3A NL %7C RATING%3A 7%2F10%20t.me%2Frjsxrd
+vless://37af0181-5598-4aad-a040-d926bcb65757@78.159.250.155:8443?encryption=none&extra=null&fp=firefox&host=plaindune.com&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=plaindune.com&type=xhttp#3.%20%F0%9F%87%A7%F0%9F%87%AC%20VLESS%20%7C%20SNI%3A%20plaindune.com%20%7C%20CIDR%3A%20%3F%20%7C%20TG%3A%20%40wlrustg%20t.me%2Frjsxrd
