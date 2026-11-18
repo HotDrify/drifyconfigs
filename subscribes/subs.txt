@@ -1,5 +1,1 @@
-vless://e88e4dff-effc-407f-87f1-0967d3717ea6@89.125.175.140:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&security=reality&sid=7da3ba09a037e956&sni=uk-room05.filesnap.tech&type=tcp#🇩🇪 Германия 9 WEYRO LTD%20t.me%2Frjsxrd
-
-vless://37af0181-5598-4aad-a040-d926bcb65757@78.159.250.155:8443?encryption=none&security=tls&sni=plaindune.com&fp=chrome&type=xhttp&mode=auto&host=plaindune.com&path=/api/v1/upload#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot%20t.me%2Frjsxrd
-
-vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@67.159.17.252:443?encryption=none&flow=xtls-rprx-vision&pbk=ZSxFQHVt_avgBDW1Rbbn0SBDidOEftqHgAF9NH565kM&security=reality&sni=sdfsdfsf.wey-land.net&type=tcp&fp=edge#Бесплатный VPN tg:VLESSFORU 🇦🇹%20t.me%2Frjsxrd
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@179.253.101.162:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru17.net&type=tcp#🇵🇱 Польша 10 CLOUD SOLUTIONS GLOBAL LTD%20t.me%2Frjsxrd
