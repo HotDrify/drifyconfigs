@@ -1,29 +1,3 @@
-vless://03786aa4-21a5-4e7c-83d6-873aafc41217@193.233.198.117:443?flow=xtls-rprx-vision&pbk=zT-G11tZiOO7DFJD23MCeZC3TwaUJr6NMDHW4CLif1Y&security=reality&sid=5eebb4b74e873b14&sni=de-03.neverspy.tech&fp=ios#Бесплатный VPN tg:VLESSFORU 🇩🇪%20t.me%2Frjsxrd
+vless://ab53f3b6-7962-4bc1-90f6-8420767b22a8@45.88.182.239:8443?encryption=none&fp=firefox&host=us-05.avroraservice.online&path=/xhttp&pbk=KZejN2d1cwCrITHNxFYQVZ4rpMTZzHgJd9p30MZm_3k&security=reality&sid=6bd33a75ebc0f26e&sni=cdn-us.cahmes.space&type=xhttp#🇨🇾 Кипр
 
-vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@50.7.178.249:443?encryption=none&flow=xtls-rprx-vision&pbk=zl6T6h_nimHv6mo1ftpXHJUFuiMovjMiAlOZIjY71kQ&security=reality&sni=sdfsdfb.wey-land.net&type=tcp&fp=ios#Бесплатный VPN tg:VLESSFORU 🇺🇸%20t.me%2Frjsxrd
-
-vless://a346c521-7a7f-452b-9356-a4893feb5982@89.221.203.29:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ru2-r.bankai.party&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot%20t.me%2Frjsxrd
-
-vless://167d7768-2f0a-4f9d-86e0-81514362c189@154.197.64.252:443?encryption=none&fp=firefox&host=worker3.biwir20896.workers.dev&path=/LF5LdoZelHLG07nl&security=tls&sni=worker3.biwir20896.workers.dev&type=ws#🇩🇪 Германия 100 Hetzner Online GmbH%20t.me%2Frjsxrd
-
-vless://e7678bcb-be0c-4275-aa1d-6298324a003e@185.18.250.2:443?encryption=none&fp=firefox&host=worker3.cidayo573832.workers.dev&path=/ZSwEHuFy9lC7zgDp&security=tls&sni=worker3.cidayo573832.workers.dev&type=ws#🇩🇪 Германия 61 Oracle Corporation%20t.me%2Frjsxrd
-
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@135.148.42.13:8388#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Reston%20%C2%B7%20a10b76e8
-
-vless://d9ce74bb-c0da-4865-80d3-32fedb7e2829@154.197.64.252:443?encryption=none&fp=firefox&host=worker3.mepepek404.workers.dev&path=/NxEvrDKOG7eWhZ20&security=tls&sni=worker3.mepepek404.workers.dev&type=ws#🇩🇪 Германия 97 GTT Communications Inc.%20t.me%2Frjsxrd
-
-trojan://M%69TiVPN@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn.si&fp=chrome&type=ws&allowInsecure=0&sni=steamstatic.com#🏳️ 💥Config_jo-155
-
-vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@48.103.120.14:443?headerType=none&host=svc-ns-cfg.galioncc.com&path=%2F&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=svc-ns-cfg.galioncc.com&type=tcp&fp=edge#Бесплатный VPN tg:VLESSFORU 🇺🇸%20t.me%2Frjsxrd
-
-vless://a30903dc-1bf0-0001-8b1b-603a3a56211c@94.139.250.226:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=ios&type=tcp&sni=net-api-ctl.galioncc.com&sid=6d2f8a41c9e705b3#🇷🇺 Россия
-
-vless://cee4b560-2c6b-40f1-8179-0b2c1e370023@154.197.64.252:443?encryption=none&fp=firefox&host=worker3.xiweya2647.workers.dev&path=/HGCmKaXbRNqpZqMv&security=tls&sni=worker3.xiweya2647.workers.dev&type=ws#🇩🇪 Германия 59 Oracle Corporation%20t.me%2Frjsxrd
-
-vless://178b6a10-50ed-4de4-af64-c6da7192722a@185.92.180.124:60005?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=firefox&pbk=Tgc-ojZhTTRr-NhluOSFQ0xx3PmPg_EUg-AoUOO2rmU&security=reality&sid=97&sni=aparat.com&type=xhttp#🇺🇸 США 12 CGI GLOBAL LIMITED%20t.me%2Frjsxrd
-
-vless://67864856-8730-40cc-9e1a-a0df697d912b@191.217.206.147:9443?encryption=none&fp=firefox&path=/assets/246a109dceaa6b7832a98d17&pbk=zd4L59ejBo94N8N9GQtZMox2eBBF9TQf2TLyIgpwlCg&security=reality&sid=fd7624659f1e7d66&sni=fin.krabvpn.pro&type=xhttp#🇫🇮 Финляндия 9 NODE HOST LIMITED%20t.me%2Frjsxrd
-
-vless://0b22812b-4a79-42b1-93ec-5b157b0f2f7f@191.217.206.147:9443?encryption=none&type=xhttp&security=reality&sni=fin.krabvpn.pro&pbk=zd4L59ejBo94N8N9GQtZMox2eBBF9TQf2TLyIgpwlCg&sid=fd7624659f1e7d66&fp=firefox&path=/assets/246a109dceaa6b7832a98d17&mode=auto#Бесплатный VPN tg:VLESSFORU 🇸🇪%20t.me%2Frjsxrd
-
-vless://3dbd9377-43cc-46c3-b32c-2605908024eb@103.118.211.38:443?security=reality&type=xhttp&path=%2F49b9f446&host=czechia.richforever.ru&packetEncoding=none&sni=czechia.richforever.ru&fp=firefox&sid=8a9442353eebbe0f&pbk=PA1xWXjxZLn68I-6cjWVdqc0dYhWbu9W5c1GpjEOZgE&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-300%22%7D#🇷🇺 🏴 WLUnlocker Россия | #34
+vless://3dbd9377-43cc-46c3-b32c-2605908024eb@103.118.211.38:443?type=xhttp&security=reality&fp=firefox&pbk=PA1xWXjxZLn68I-6cjWVdqc0dYhWbu9W5c1GpjEOZgE&sid=8a9442353eebbe0f&sni=czechia.richforever.ru&path=%2F49b9f446&host=czechia.richforever.ru&mode=auto#🇨🇿120Mb | Mastersoft SRL
