@@ -1,21 +1,21 @@
-vless://a346c521-7a7f-452b-9356-a4893feb5982@89.221.203.29:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ru2-r.bankai.party&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&sid=457fab2ac885dbe0&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
+wireguard://2MQsAPljoRgZGUAn2QTjz8J%2F2IYBGjAF8mXnjG4jbVc%3D@8.6.112.132:8854?wnoise=random&presharedkey=&address=172.16.0.2%2F32&reserved=248%2C35%2C241&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=2-5&wnoisecount=5&mtu=1280#%40Freenetvt
 
-vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@191.217.254.141:443?security=reality&sni=marian.wey-land.net&fp=firefox&pbk=ZrL7qFRvqxX0HCydW8UJDJ6zMdCPl0TlkmwBJD74RhA&sid=05f37a191ec7a2ad&type=xhttp&path=%2Fapp-backend-reg&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%22400000-800000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22maxConcurrency%22%3A%222-4%22%2C%22maxConnections%22%3A0%7D%7D#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
+vless://a346c521-7a7f-452b-9356-a4893feb5982@89.221.203.29:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&security=reality&sni=ru2-r.bankai.party&type=tcp#🇷🇺 Россия 2 GLOBAL INTERNET SOLUTIONS LLC%20t.me%2Frjsxrd
 
-vless://f203fd20-2c61-4b6e-a8a7-75e9581e497b@187.54.4.43:443?flow=xtls-rprx-vision&fp=firefox&pbk=LhcTGnqGTs7rJgD52NUKBWH3-mPJBdkMJKLmz-M4jnk&security=reality&sid=486a1a9c7288b70e&sni=bg-adapt.static-s3.org&type=raw#🇧🇬259Mb | AdaptGroup
+vless://2bba3b63-eb4c-470b-aa58-ae9d4a1430c8@48.102.226.22:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=m6US_Wo7oYwRvmXWu2_bMRST1FB_rVcPpW3TqZX5_xY&security=reality&sni=48.102.226.22&type=tcp#🇳🇴 Норвегия Akenai Products LTD%20t.me%2Frjsxrd
 
-vless://a30903dc-1bf0-0001-8b1b-603a3a56211c@94.139.250.226:443?security=reality&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=6d2f8a41c9e705b3&sni=net-api-ctl.galioncc.com&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA%20t.me%2Frjsxrd
+vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@191.217.254.103:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%22400000-800000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22maxConcurrency%22%3A%222-4%22%2C%22maxConnections%22%3A0%7D%7D&path=%2Fapp-backend-reg&pbk=c58NEWR3Y3cDAjXxPL39GmzN6-_LQQh-0eTU0AAFHwg&security=reality&sid=05f37a191ec7a2ad&sni=xtream.wey-land.net&type=xhttp&fp=ios#tg:VLESSFORU top ping 🇳🇱%20t.me%2Frjsxrd
 
-hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@150.251.142.35:8443?sni=speedtestmark.com#🇳🇱 Нидерланды 43 NovoServe B.V.%20t.me%2Frjsxrd
+vless://df97ce68-477f-4484-94c7-79eccab7319d@144.31.129.14:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pVnL-fHPTAgysKc9Qz4PcQLwjvJti0G7zGxU8Lj3pVE&security=reality&sid=9d5a73191957bf5b&sni=bel1.angelsleep9.com&type=tcp#🇧🇾 Беларусь
 
-vless://3dbd9377-43cc-46c3-b32c-2605908024eb@103.118.211.38:443?encryption=none&extra={"xPaddingBytes":"100-300"}&fp=firefox&path=/49b9f446&pbk=PA1xWXjxZLn68I-6cjWVdqc0dYhWbu9W5c1GpjEOZgE&security=reality&sid=8a9442353eebbe0f&sni=czechia.richforever.ru&type=xhttp#🇨🇿 Чехия 4 Mastersoft S.R.L.%20t.me%2Frjsxrd
+vless://f203fd20-2c61-4b6e-a8a7-75e9581e497b@187.54.4.43:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=LhcTGnqGTs7rJgD52NUKBWH3-mPJBdkMJKLmz-M4jnk&sid=486a1a9c7288b70e&sni=bg-adapt.static-s3.org#🇧🇬185Mb | AdaptGroup
 
-vless://f18c5f6d-2bac-4a99-8c92-a6e6e7aea9b4@185.155.55.12:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ApMfbcEyBOve6DxXoBNVu3bCCzQ7XCEYB4ummsDtTBE&security=reality&sid=661766b2bcef440a&sni=ee-nf.reddotcorp.org&type=tcp#🇪🇪 Эстония RJ Network OU%20t.me%2Frjsxrd
+vless://d9ce74bb-c0da-4865-80d3-32fedb7e2829@45.135.235.255:443?encryption=none&fp=firefox&host=worker3.mepepek404.workers.dev&path=/NxEvrDKOG7eWhZ20&security=tls&sni=worker3.mepepek404.workers.dev&type=ws#🇩🇪 Германия 98 GTT Communications Inc.%20t.me%2Frjsxrd
 
-vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@129.101.98.60:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lews1n_fypGexd_dMofEO4Vy1ULsFeVIFa90MMY3pm4&security=reality&sid=3992cc7fb9fcbe58&sni=ru7e2bab87cc39.eu-cdn539.com&type=tcp#4Nika-ef224057a3 | 151ms
+hysteria2://92bd8c68-6434-11ee-b644-f23c91cfbbc9@198.2.222.208:443?sni=5333a9dd-tmm5c0-tonrqx-1khwf.los.hyhuawei.com#🇺🇸 США 15 PEG TECH INC%20t.me%2Frjsxrd
 
-vless://08fc6597-23e9-4f29-bce2-b3bbc04e8c91@91.107.177.172:443?encryption=none&security=tls&sni=mergo.vpn.iiproxy.com&type=tcp&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot%20t.me%2Frjsxrd
+hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@150.251.142.34:8443?sni=speedtestmark.com#🇳🇱 Нидерланды 44 NovoServe B.V.%20t.me%2Frjsxrd
 
-vless://313b84fa-b922-500f-9b65-acb67c040cc0@185.197.193.137:443/?type=ws&encryption=none&flow=&host=us2.v2less.site&path=/vless&security=tls&sni=us2.v2less.site&fp=chrome#[2444][BG][0][VLESS][None][ext_raw.githubusercontent.com][2026-11-16][2026-11-16 03:31]
+vless://d9ce74bb-c0da-4865-80d3-32fedb7e2829@154.197.64.252:443?encryption=none&fp=firefox&host=worker3.mepepek404.workers.dev&path=/NxEvrDKOG7eWhZ20&security=tls&sni=worker3.mepepek404.workers.dev&type=ws#🇩🇪 Германия 97 GTT Communications Inc.%20t.me%2Frjsxrd
 
-vless://03786aa4-21a5-4e7c-83d6-873aafc41217@193.233.198.117:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zT-G11tZiOO7DFJD23MCeZC3TwaUJr6NMDHW4CLif1Y&security=reality&sid=5eebb4b74e873b14&sni=de-03.neverspy.tech&type=tcp#🇩🇪 Германия 24 Digital Hosting Provider LLC%20t.me%2Frjsxrd
+vless://2bba3b63-eb4c-00e1-aa58-ae9d4a1430c8@48.102.242.122:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=m6US_Wo7oYwRvmXWu2_bMRST1FB_rVcPpW3TqZX5_xY&security=reality&sni=48.102.242.122&type=tcp#🇦🇺 Австралия G-Core Labs S.A.%20t.me%2Frjsxrd
