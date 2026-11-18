@@ -1,5 +1,5 @@
-vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@50.7.177.162:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=RAAelLRnSImkMKUKvue_QLRljXL6bTgJqXyCkCuhugo&sni=gmghhb.wey-land.net#🇺🇸208Mb | FDCserversnet
+vless://bab61ae8-b04f-474a-9268-d6becc3ca487@2.26.129.78:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ub1PHBkdqrCahRc4rgavIBm9EvIDWrZi0ff_OvEv8FU&security=reality&sid=b0f839d2a5c7e146&sni=stream.selectus.ru&type=tcp#🇫🇷 Франция 1 Datacamp Limited%20t.me%2Frjsxrd
 
-vmess://eyJhZGQiOiIxMDQuMjcuMC4xIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e68J+HuCBVbml0ZWQgU3RhdGVzLCBDaGljYWdvIHwg8J+MkCB8IFtCTF0iLCJzY3kiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic25pIjoidm1lc3MubGJ3NjY2LmRwZG5zLm9yZyIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://b2744db0-1c64-4218-a93b-9eba0e5f811f@77.221.150.215:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=D5iMYCRwFa3Wj3rGjTsoHOPEs-ipOok_O0SSrlEPqjo&security=reality&sid=83b4d1fd08314289&sni=at-25-31bv.wave-inside.online&type=tcp#🇬🇧 Великобритания 2 AEZA GROUP LLC%20t.me%2Frjsxrd
 
-vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@48.103.120.8:443?fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=api-gw-ctl.galioncc.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Washington%20%C2%B7%20a177ea3e
+vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@50.7.178.249:443?flow=xtls-rprx-vision&fp=firefox&pbk=zl6T6h_nimHv6mo1ftpXHJUFuiMovjMiAlOZIjY71kQ&security=reality&sid=&sni=sdfsdfb.wey-land.net&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%C2%B7%20Halfweg%20%C2%B7%2041bb8914
