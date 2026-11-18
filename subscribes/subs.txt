@@ -1,5 +1,5 @@
-vless://bab61ae8-b04f-474a-9268-d6becc3ca487@2.26.129.78:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ub1PHBkdqrCahRc4rgavIBm9EvIDWrZi0ff_OvEv8FU&security=reality&sid=b0f839d2a5c7e146&sni=stream.selectus.ru&type=tcp#🇫🇷 Франция 1 Datacamp Limited%20t.me%2Frjsxrd
+vless://e88e4dff-effc-407f-87f1-0967d3717ea6@89.125.175.140:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&security=reality&sid=7da3ba09a037e956&sni=uk-room05.filesnap.tech&type=tcp#🇩🇪 Германия 9 WEYRO LTD%20t.me%2Frjsxrd
 
-vless://b2744db0-1c64-4218-a93b-9eba0e5f811f@77.221.150.215:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=D5iMYCRwFa3Wj3rGjTsoHOPEs-ipOok_O0SSrlEPqjo&security=reality&sid=83b4d1fd08314289&sni=at-25-31bv.wave-inside.online&type=tcp#🇬🇧 Великобритания 2 AEZA GROUP LLC%20t.me%2Frjsxrd
+vless://37af0181-5598-4aad-a040-d926bcb65757@78.159.250.155:8443?encryption=none&security=tls&sni=plaindune.com&fp=chrome&type=xhttp&mode=auto&host=plaindune.com&path=/api/v1/upload#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot%20t.me%2Frjsxrd
 
-vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@50.7.178.249:443?flow=xtls-rprx-vision&fp=firefox&pbk=zl6T6h_nimHv6mo1ftpXHJUFuiMovjMiAlOZIjY71kQ&security=reality&sid=&sni=sdfsdfb.wey-land.net&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%C2%B7%20Halfweg%20%C2%B7%2041bb8914
+vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@67.159.17.252:443?encryption=none&flow=xtls-rprx-vision&pbk=ZSxFQHVt_avgBDW1Rbbn0SBDidOEftqHgAF9NH565kM&security=reality&sni=sdfsdfsf.wey-land.net&type=tcp&fp=edge#Бесплатный VPN tg:VLESSFORU 🇦🇹%20t.me%2Frjsxrd
