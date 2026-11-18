@@ -1,5 +1,5 @@
-vless://be146d46-ae50-4691-838c-b6c87dbaec8f@143.246.41.214:443?fp=firefox&pbk=8OI8rEgAiWxH-cG03xgzuz7XTFHrbA1MY9HnPHcgSUA&security=reality&sid=1d5ac21e988c571f&sni=702e56t.pl5.h1clayd.click&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%C2%B7%20Tallinn%20%C2%B7%205770f06f
+vless://ab53f3b6-7962-4bc1-90f6-8420767b22a8@136.148.83.132:8443?encryption=none&fp=firefox&host=cdn-us.cahmes.space&path=/xhttp&pbk=KZejN2d1cwCrITHNxFYQVZ4rpMTZzHgJd9p30MZm_3k&security=reality&sid=6bd33a75ebc0f26e&sni=cdn-us.cahmes.space&type=xhttp#🇺🇸 США 4 ROUTE 95 LLC%20t.me%2Frjsxrd
 
-vless://266e7048-b5dd-4674-b8e3-eea10fd21aea@45.152.113.249:8443?security=reality&encryption=none&pbk=UgqPM4EO_ZYMdHKCtAiVfW6I1DVjljvkyyKl19gNxCY&headerType=&type=tcp&flow=xtls-rprx-vision&sni=static.selectel.ru&sid=0d716963661ef982#🇷🇺 💥Config_jo-189
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgQ2hpY2FnbyB8IPCfjJAgfCBbQkxdIiwiYWRkIjoiMTA0LjIxLjcuMTMzIiwicG9ydCI6IjQ0MyIsImlkIjoiMGNmNmQ5NzAtM2YxZC00YWFlLWE5ODktOTJhOGY3NmFlM2RiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJwYXRoIjoiL3dzIiwidGxzIjoidGxzIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
 
-hysteria2://u9axzkplfc3463am@48.103.230.51:16146?sni=sub.macdonalder.cyou&obfs=salamander&obfs-password=mn1g0eianbese7bl#🇺🇸 США 1 Ace Data Centers II, L.L.C.%20t.me%2Frjsxrd
+vless://67864856-8730-40cc-9e1a-a0df697d912b@2.27.14.122:8443?encryption=none&fp=firefox&path=/assets/6c0f3ad762cb7ff51b454076&pbk=1SldfhWqqF_Rg9QlPKQqufcHi5GhkxwcEV5HGyOy4Qg&security=reality&sid=64ad711102f56ca2&sni=de.krabvpn.pro&type=xhttp#🇩🇪 Германия 8 NODE HOST LIMITED%20t.me%2Frjsxrd
