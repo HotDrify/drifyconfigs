@@ -1,5 +1,13 @@
-hysteria2://5de9c7b1-25f2-0001-bbaa-e4292a33a59b@176.108.244.162:443?sni=ohyjf-ru-65sb.my-fade.cloud&pinSHA256=b59ce628fb2824c0da7cbfa43e9f93aca2632068ebc29e2367eebe832a1402bf#🇷🇺 Россия
+hysteria2://5de9c7b1-25f2-0001-bbaa-e4292a33a59b@176.108.244.162:443?sni=ohyjf-ru-65sb.my-fade.cloud#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%C2%B7%20Moscow%20%C2%B7%20443552e8
 
-vless://5744e593-1cc8-48fa-b8ca-57cd494fe35b@104.16.0.1:2052?alpn=http/1.1&host=eu02.123450908.xyz&path=%2Frain1226&security=none&sni=eu02.123450908.xyz&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%C2%B7%20Toronto%20%C2%B7%20414baf4d
+hysteria2://6acdc33a-a25b-0001-8095-c9a252d72fd0@176.108.244.162:443?sni=ohyjf-ru-65sb.my-fade.cloud#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%C2%B7%20Moscow%20%C2%B7%2004d68301
 
-hysteria2://1d1d36cd-d3d4-0001-ab0e-99c68461d513@176.108.240.182:443?sni=mwtjc-ru-73sb.my-fade.cloud#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%C2%B7%20Moscow%20%C2%B7%20db473178
+hysteria2://b006650f-8771-0001-b7fa-e18fc6e80ef1@168.113.254.247:443?alpn=h3&sni=vcerx-ru-67sb.my-fade.cloud#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%C2%B7%20Moscow%20%C2%B7%20372e20c8
+
+hysteria2://49142625-3a86-0001-9a44-274a17eb89ae@188.68.216.27:443?sni=qtuod-ru-56sel.fade.mom&alpn=h3&pinSHA256=3bb90b7916051275cfc66e6e489a0f2094a823ca081c2041380fca2762df1412#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%BF%20%F0%9F%87%B3%F0%9F%87%B4%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
+
+hysteria2://401db914-1fef-0001-b41a-287bd9ac13f9@185.151.243.186:443?sni=piodr-ru-74sel.my-fade.cloud&alpn=h3&pinSHA256=d71dee6f06749e3ed87bba907da71f538edb9dd5e778eb7321e8d056ff207739#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%BF%20%F0%9F%87%B8%F0%9F%87%AA%20%5B%2ACIDR%5D
+
+hysteria2://5760fb84-06f8-0001-890a-3d66044897ce@176.108.240.182:443?sni=mwtjc-ru-73sb.my-fade.cloud#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%C2%B7%20Moscow%20%C2%B7%20fbbb9869
+
+hysteria2://3098af7f-dd3e-0001-b8e5-05a194206ac0@168.113.254.183:443?sni=xykmh-ru-70sb.my-fade.cloud&pinSHA256=e53ee5f3142e0ce20b4b9d7041dd54c9921b4e215a9eae54440236affe7bb4a2#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%BF%20%F0%9F%87%B3%F0%9F%87%B4%20%7C%20%5BBL%5D
