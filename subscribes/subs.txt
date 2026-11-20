@@ -1,13 +1,11 @@
-wireguard://cD8E8oSmYFrss9WE7Ul5wl%2FXtWcglaHHzgTYxZ%2BpjHM%3D@8.6.112.60:5279?wnoise=random&presharedkey=&address=172.16.0.2%2F32&reserved=23%2C4%2C210&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=2-5&wnoisecount=5&mtu=1280#%40freenetvt
+vless://4777d90d-265b-4927-a0d1-63f36ed1421c@94.241.172.107:443?encryption=none&security=tls&sni=94.241.172.107&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&pcs=67fa1e374feaeb232157317d6ace682475cb1a826e0cf8657151a254681aed62&type=xhttp&path=%2Fassets%2Fnl02%2F&mode=packet-up#%E2%9D%93%E6%9C%AA%E7%9F%A5%E4%B8%A8yoyapai.com | 130ms
 
-vless://4777d90d-265b-4927-a0d1-63f36ed1421c@94.241.172.107:443?encryption=none&security=tls&sni=94.241.172.107&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&pcs=67fa1e374feaeb232157317d6ace682475cb1a826e0cf8657151a254681aed62&type=xhttp&path=%2Fassets%2Fnl02%2F&mode=packet-up#%E2%9D%93%E6%9C%AA%E7%9F%A5%E4%B8%A8yoyapai.com | 91ms
+vless://e1b0016b-7f19-47fd-8b36-c471cf91012f@147.45.116.64:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tm1f7W3RTgSx1F6NsoE32TborUxVe1udZQr4LhDAIio&security=reality&sid=6d5496b5539e2ee4&sni=77.88.8.8&type=tcp#🇧🇷 Бразилия 3 GLOBAL CONNECTIVITY SOLUTIONS LLP%20t.me%2Frjsxrd
 
-vless://fdd8f4d0-4500-11ef-8227-1577c1651679@104.17.3.81:80?type=ws&sni=sg-vless-ws.bypass.id&host=sg-vless-ws.bypass.id#🇸🇬176Mb | EN Technologies Pte
+hysteria2://49b5c86a-fbfc-0001-82af-171a932d04e7@188.68.216.27:443?sni=qtuod-ru-56sel.fade.mom#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%C2%B7%20St%20Petersburg%20%C2%B7%207e7d9346
 
-hysteria2://5c49355f-afbc-0001-9c1c-8205436bb97c@185.151.243.186:443?sni=piodr-ru-74sel.my-fade.cloud#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%BF%20%F0%9F%87%B5%F0%9F%87%B1%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
+hysteria2://6acdc33a-a25b-0001-8095-c9a252d72fd0@176.108.244.162:443?sni=ohyjf-ru-65sb.my-fade.cloud&alpn=h3&pinSHA256=b59ce628fb2824c0da7cbfa43e9f93aca2632068ebc29e2367eebe832a1402bf#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
 
-vless://e1b0016b-7f19-47fd-8b36-c471cf91012f@147.45.116.64:8443?&security=reality&flow=xtls-rprx-vision&pbk=tm1f7W3RTgSx1F6NsoE32TborUxVe1udZQr4LhDAIio&sid=6d5496b5539e2ee4&fp=firefox&sni=77.88.8.8&type=tcp&headerType=none&host=77.88.8.8&path=%2F#%F0%9F%87%A7%F0%9F%87%B7%20%E5%B7%B4%E8%A5%BF%20%7C%20BRA%20t.me%2Frjsxrd
+vless://63aa95e5-3b36-4e53-a86f-7df59652e994@196.196.204.148:443?&security=reality&flow=xtls-rprx-vision&pbk=-ZN1kT3JlPFxu1E906JRqLAGoQQucSmL6xPiuAyasTk&sid=597e1c279d224774&fp=firefox&sni=4c980ft.fi15.h1clayd.click&type=tcp&headerType=none&host=4c980ft.fi15.h1clayd.click&path=%2F#%E8%8A%AC%E5%85%B0_112009004%20t.me%2Frjsxrd
 
-ss://YWVzLTEyOC1nY206QndscWg3R2NGQg==@168.138.205.100:53758#[7436][JP][0][SS][None][ext_raw.githubusercontent.com][2026-11-19][2026-11-19 04:49]
-
-hysteria2://3098af7f-dd3e-0001-b8e5-05a194206ac0@168.113.254.183:443?sni=xykmh-ru-70sb.my-fade.cloud#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
+hysteria2://5760fb84-06f8-0001-890a-3d66044897ce@176.108.240.182:443?sni=mwtjc-ru-73sb.my-fade.cloud&security=tls&pcs=b8414477e40fefd0518261802aeeec0251134eeeb5fb0cda665889061482bc99#🇷🇺 Россия
