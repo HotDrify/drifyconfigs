@@ -1,13 +1,13 @@
-vless://13cca0fd-bb3e-44e4-9ced-1c6efcabbb03@95.85.243.72:443?encryption=none&pbk=m3opvubdy_gjBiBkXnAw3eDUP4alVeVWxKkvZHIINjs&security=reality&sid=426165a0badade80&sni=212.192.156.15&type=tcp&fp=ios#Бесплатный VPN tg:VLESSFORU 🇪🇪%20t.me%2Frjsxrd
+wireguard://cD8E8oSmYFrss9WE7Ul5wl%2FXtWcglaHHzgTYxZ%2BpjHM%3D@8.6.112.60:5279?wnoise=random&presharedkey=&address=172.16.0.2%2F32&reserved=23%2C4%2C210&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=2-5&wnoisecount=5&mtu=1280#%40freenetvt
 
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@8.209.73.203:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot%20t.me%2Frjsxrd
+vless://4777d90d-265b-4927-a0d1-63f36ed1421c@94.241.172.107:443?encryption=none&security=tls&sni=94.241.172.107&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&pcs=67fa1e374feaeb232157317d6ace682475cb1a826e0cf8657151a254681aed62&type=xhttp&path=%2Fassets%2Fnl02%2F&mode=packet-up#%E2%9D%93%E6%9C%AA%E7%9F%A5%E4%B8%A8yoyapai.com | 91ms
 
-hysteria2://401db914-1fef-0001-b41a-287bd9ac13f9@185.151.243.186:443?sni=piodr-ru-74sel.my-fade.cloud&alpn=h3&pinSHA256=d71dee6f06749e3ed87bba907da71f538edb9dd5e778eb7321e8d056ff207739#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%BF%20%F0%9F%87%B8%F0%9F%87%AA%20%5B%2ACIDR%5D
+vless://fdd8f4d0-4500-11ef-8227-1577c1651679@104.17.3.81:80?type=ws&sni=sg-vless-ws.bypass.id&host=sg-vless-ws.bypass.id#🇸🇬176Mb | EN Technologies Pte
 
-vless://13cca0fd-bb3e-44e4-9ced-1c6efcabbb03@95.85.243.72:443?encryption=none&fp=firefox&pbk=m3opvubdy_gjBiBkXnAw3eDUP4alVeVWxKkvZHIINjs&security=reality&sid=426165a0badade80&sni=212.192.156.15&type=tcp#🇪🇪 Эстония 4 OC NETWORKS LIMITED%20t.me%2Frjsxrd
+hysteria2://5c49355f-afbc-0001-9c1c-8205436bb97c@185.151.243.186:443?sni=piodr-ru-74sel.my-fade.cloud#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%BF%20%F0%9F%87%B5%F0%9F%87%B1%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
 
-vmess://eyJhZGQiOiAiMTA0LjE4LjQyLjE2MyIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiNmE4OWEyMTUtMjJiZi00YmQ3LTk2NDItYjk1YjJlMDk1ODNhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9obHMvY2N0djVwaGQubTN1OCIsICJwb3J0IjogNDQzLCAicHMiOiAiWzU5MF1bVVNdWzBdW1ZNRVNTXVtOb25lXVtOb25lXVtVbmtub3duXVtVbmtub3duXSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICJndWFud2FuZy5hd3Nuby5jb20ifQ==
+vless://e1b0016b-7f19-47fd-8b36-c471cf91012f@147.45.116.64:8443?&security=reality&flow=xtls-rprx-vision&pbk=tm1f7W3RTgSx1F6NsoE32TborUxVe1udZQr4LhDAIio&sid=6d5496b5539e2ee4&fp=firefox&sni=77.88.8.8&type=tcp&headerType=none&host=77.88.8.8&path=%2F#%F0%9F%87%A7%F0%9F%87%B7%20%E5%B7%B4%E8%A5%BF%20%7C%20BRA%20t.me%2Frjsxrd
 
-vless://0259e5aa-c188-4334-b204-32cd5ea859f6@31.56.187.211:443?flow=xtls-rprx-vision&security=reality&sni=maps-carts-world.keno.su&fp=firefox&pbk=_MeP-WwmolUvi6wMXNoSs_zo6miG_OW7xk4ibzADiHY#🇪🇪 Эстония
+ss://YWVzLTEyOC1nY206QndscWg3R2NGQg==@168.138.205.100:53758#[7436][JP][0][SS][None][ext_raw.githubusercontent.com][2026-11-19][2026-11-19 04:49]
 
-hysteria2://6acdc33a-a25b-0001-8095-c9a252d72fd0@176.108.244.162:443?sni=ohyjf-ru-65sb.my-fade.cloud&alpn=h3&pinSHA256=b59ce628fb2824c0da7cbfa43e9f93aca2632068ebc29e2367eebe832a1402bf#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%BF%20%F0%9F%87%B1%F0%9F%87%BB%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
+hysteria2://3098af7f-dd3e-0001-b8e5-05a194206ac0@168.113.254.183:443?sni=xykmh-ru-70sb.my-fade.cloud#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
