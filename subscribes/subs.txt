@@ -1,7 +1,1 @@
-wireguard://cD8E8oSmYFrss9WE7Ul5wl%2FXtWcglaHHzgTYxZ%2BpjHM%3D@8.6.112.60:5279?wnoise=random&presharedkey=&address=172.16.0.2%2F32&reserved=23%2C4%2C210&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=2-5&wnoisecount=5&mtu=1280#%40freenetvt
-
-vless://3de54b98-fdfe-4a8d-ae72-f2458dd5e5f4@13.143.175.241:443?encryption=none&fp=firefox&pbk=4ltYIatUJFFjrW8ZBDGLJaun0BnYIgxn-jmpmTEDGyc&security=reality&sni=tolyatti.gosgenarchive.com&type=xhttp#🇳🇱 Нидерланды 27 PLAY2GO - FZCO%20t.me%2Frjsxrd
-
-hysteria2://b006650f-8771-0001-b7fa-e18fc6e80ef1@168.113.254.247:443?sni=vcerx-ru-67sb.my-fade.cloud&alpn=h3&pinSHA256=c95e0c5630fadff7db0b6954ca210b104a9ea5a913e960a3ccb6d821664968e6#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%BF%20%F0%9F%87%B3%F0%9F%87%B4%20%5B%2ACIDR%5D
-
-hysteria2://29f90c01-02b6-0001-9249-e3558a9c73a4@185.151.243.186:443?sni=piodr-ru-74sel.my-fade.cloud&alpn=h3&pinSHA256=d71dee6f06749e3ed87bba907da71f538edb9dd5e778eb7321e8d056ff207739#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A7%F0%9F%87%AC%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
+hysteria2://3098af7f-dd3e-0001-b8e5-05a194206ac0@168.113.254.183:443?alpn=h3&sni=xykmh-ru-70sb.my-fade.cloud#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%C2%B7%20Moscow%20%C2%B7%20a94568fb
