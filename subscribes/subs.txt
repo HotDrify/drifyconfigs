@@ -1,1 +1,5 @@
-hysteria2://5760fb84-06f8-0001-890a-3d66044897ce@176.108.240.182:443?sni=mwtjc-ru-73sb.my-fade.cloud&security=tls&pcs=b8414477e40fefd0518261802aeeec0251134eeeb5fb0cda665889061482bc99#🇷🇺 Россия
+hysteria2://5de9c7b1-25f2-0001-bbaa-e4292a33a59b@176.108.244.162:443?sni=ohyjf-ru-65sb.my-fade.cloud&pinSHA256=b59ce628fb2824c0da7cbfa43e9f93aca2632068ebc29e2367eebe832a1402bf#🇷🇺 Россия
+
+vless://5744e593-1cc8-48fa-b8ca-57cd494fe35b@104.16.0.1:2052?alpn=http/1.1&host=eu02.123450908.xyz&path=%2Frain1226&security=none&sni=eu02.123450908.xyz&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%C2%B7%20Toronto%20%C2%B7%20414baf4d
+
+hysteria2://1d1d36cd-d3d4-0001-ab0e-99c68461d513@176.108.240.182:443?sni=mwtjc-ru-73sb.my-fade.cloud#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%C2%B7%20Moscow%20%C2%B7%20db473178
